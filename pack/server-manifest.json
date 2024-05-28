@@ -1,0 +1,3979 @@
+{
+  "name": "PathOfTruth",
+  "author": "MysteriousEnder",
+  "version": "1.0",
+  "description": "",
+  "fileApi": "https://114514.com",
+  "files": [
+    {
+      "path": "config/AdvancedBackups-client.properties",
+      "hash": "adcb0e02372950d4e316eaa5ec9b109507258c09"
+    },
+    {
+      "path": "config/alexsinteraction.toml",
+      "hash": "df465a4fe62dd21db0ea66e9770d2eca5ac36233"
+    },
+    {
+      "path": "config/alexsmobs/alligator_snapping_turtle_spawns.json",
+      "hash": "2fecd47dfe3901bf041cdbfd7762775aed8ff02b"
+    },
+    {
+      "path": "config/alexsmobs/anaconda_spawns.json",
+      "hash": "5276886bf74157b158f4a554b7674bcc3b25817c"
+    },
+    {
+      "path": "config/alexsmobs/anteater_spawns.json",
+      "hash": "983d5b8a09faf49e73d82af7e3fb0d6d8a28ec4d"
+    },
+    {
+      "path": "config/alexsmobs/bald_eagle_spawns.json",
+      "hash": "75bd4a673a5c6788f42a6bd6d2091127333efbcc"
+    },
+    {
+      "path": "config/alexsmobs/banana_slug_spawns.json",
+      "hash": "09614cac8bc432f04d9c00fc36ca5c19ee671957"
+    },
+    {
+      "path": "config/alexsmobs/bison_spawns.json",
+      "hash": "43af4f66f883adee9ae16a3e373eae6056e212c1"
+    },
+    {
+      "path": "config/alexsmobs/blobfish_spawns.json",
+      "hash": "f39ce83ec705fea5b1e181947ea3d690961a3556"
+    },
+    {
+      "path": "config/alexsmobs/blue_jay_spawns.json",
+      "hash": "4a704c533746078e7338f88c29f181166a092606"
+    },
+    {
+      "path": "config/alexsmobs/bone_serpent_spawns.json",
+      "hash": "a8f86f76bd08d4edf938eabb604cbb31c4b6ca48"
+    },
+    {
+      "path": "config/alexsmobs/bunfungus_spawns.json",
+      "hash": "984700d0723c99153ae6fe1ea99d960f9a9c2ee1"
+    },
+    {
+      "path": "config/alexsmobs/cachalot_whale_beached_spawns.json",
+      "hash": "c428aeede9825f740c73a8e600785aa8b2c2d009"
+    },
+    {
+      "path": "config/alexsmobs/cachalot_whale_spawns.json",
+      "hash": "725b91593440bd553a8a1aee2cc3d2fc11455519"
+    },
+    {
+      "path": "config/alexsmobs/caiman_spawns.json",
+      "hash": "2dc9908d8f42e786d38bbdaba6a4ea5249dfb13e"
+    },
+    {
+      "path": "config/alexsmobs/capuchin_monkey_spawns.json",
+      "hash": "aba297cc13e94b9bc3111e2918d0dcb4a9495cca"
+    },
+    {
+      "path": "config/alexsmobs/catfish_spawns.json",
+      "hash": "97c6120785c5e8c11bc2a3f8aee9dafaaf4aeddb"
+    },
+    {
+      "path": "config/alexsmobs/cave_centipede_spawns.json",
+      "hash": "5d660cef1ae0a0b876657cfc05714f149e5b5c90"
+    },
+    {
+      "path": "config/alexsmobs/cockroach_spawns.json",
+      "hash": "82e37fd704a5a10f7fa31b7b1107d2c1635887fe"
+    },
+    {
+      "path": "config/alexsmobs/comb_jelly_spawns.json",
+      "hash": "ced1e6a35f9debfda11e579fdd8d45a340c05630"
+    },
+    {
+      "path": "config/alexsmobs/cosmaw_spawns.json",
+      "hash": "59349c0f99f2b4f452326602e27ca30a56094c22"
+    },
+    {
+      "path": "config/alexsmobs/cosmic_cod_spawns.json",
+      "hash": "6d2ab311e1f341a4874c15ae97e420562b035c3a"
+    },
+    {
+      "path": "config/alexsmobs/crimson_mosquito_spawns.json",
+      "hash": "630cc53b571699dfa586a266d4f1e140add4569f"
+    },
+    {
+      "path": "config/alexsmobs/crocodile_spawns.json",
+      "hash": "f22c0286d65b7d5a181fe43c144f4ef689e14cde"
+    },
+    {
+      "path": "config/alexsmobs/crow_spawns.json",
+      "hash": "c0dc5411da87174f0039b79b6eef90d3d9b570cf"
+    },
+    {
+      "path": "config/alexsmobs/devils_hole_pupfish_spawns.json",
+      "hash": "72c87498fe92bbaedac0dd8f17fe45cd39f10175"
+    },
+    {
+      "path": "config/alexsmobs/dropbear_spawns.json",
+      "hash": "ee7447520b865a4a312e3ff51c7f562f15a95c1e"
+    },
+    {
+      "path": "config/alexsmobs/elephant_spawns.json",
+      "hash": "174b8af7c5357d42f6c3d7cf46000abf001026c9"
+    },
+    {
+      "path": "config/alexsmobs/emu_spawns.json",
+      "hash": "1350a531f941af07b0c590c6b03eed79569df58b"
+    },
+    {
+      "path": "config/alexsmobs/endergrade_spawns.json",
+      "hash": "876c128ed4fc894d61aab0eb2c735e64fa6dc417"
+    },
+    {
+      "path": "config/alexsmobs/enderiophage_spawns.json",
+      "hash": "b343e2bd88950cc0f5db7041b1a7708ffb51c5fb"
+    },
+    {
+      "path": "config/alexsmobs/farseer.json",
+      "hash": "c5b5e8f7e9abfe66d5afc97649eba09c4cfc1139"
+    },
+    {
+      "path": "config/alexsmobs/flutter_spawns.json",
+      "hash": "c7d78e61a3ded23ae0af88640b4f6e3788d91462"
+    },
+    {
+      "path": "config/alexsmobs/flying_fish_spawns.json",
+      "hash": "a2d8bb4c6f9b649b71187bbabd4ea33c0426bfa8"
+    },
+    {
+      "path": "config/alexsmobs/fly_spawns.json",
+      "hash": "72c87498fe92bbaedac0dd8f17fe45cd39f10175"
+    },
+    {
+      "path": "config/alexsmobs/frilled_shark_spawns.json",
+      "hash": "f39ce83ec705fea5b1e181947ea3d690961a3556"
+    },
+    {
+      "path": "config/alexsmobs/froststalker_spawns.json",
+      "hash": "707c1d78e16032957b1b047a3559006883a66aa6"
+    },
+    {
+      "path": "config/alexsmobs/gazelle_spawns.json",
+      "hash": "f7ef705fb7988c423de961ecf5b6b50207e7508c"
+    },
+    {
+      "path": "config/alexsmobs/gelada_monkey_spawns.json",
+      "hash": "c44a53e041c9ae8e3902fa56954db39ce3d5a45b"
+    },
+    {
+      "path": "config/alexsmobs/giant_squid_spawns.json",
+      "hash": "f39ce83ec705fea5b1e181947ea3d690961a3556"
+    },
+    {
+      "path": "config/alexsmobs/gorilla_spawns.json",
+      "hash": "dbdc0203d5147edd4d7b9483b05778b381839ee2"
+    },
+    {
+      "path": "config/alexsmobs/grizzly_bear_spawns.json",
+      "hash": "4a704c533746078e7338f88c29f181166a092606"
+    },
+    {
+      "path": "config/alexsmobs/guster_spawns.json",
+      "hash": "53d844c2dd6d3115cfe9a080261001f8decea616"
+    },
+    {
+      "path": "config/alexsmobs/hammerhead_shark_spawns.json",
+      "hash": "771d7ce1bcd62741842c859ac372703137baf3e5"
+    },
+    {
+      "path": "config/alexsmobs/hummingbird_spawns.json",
+      "hash": "87a5239ac83733283bda909fd7247cc8bdb7f68a"
+    },
+    {
+      "path": "config/alexsmobs/jerboa_spawns.json",
+      "hash": "cfbc84bd92bb5e0bbc48c76264684b571c02b03a"
+    },
+    {
+      "path": "config/alexsmobs/kangaroo_spawns.json",
+      "hash": "1350a531f941af07b0c590c6b03eed79569df58b"
+    },
+    {
+      "path": "config/alexsmobs/komodo_dragon_spawns.json",
+      "hash": "878fc300de29d16d3bdbb5ec7f02cc2c1cce77ef"
+    },
+    {
+      "path": "config/alexsmobs/laviathan_spawns.json",
+      "hash": "b35947925d599eb04ee7075af6810dbe7b515052"
+    },
+    {
+      "path": "config/alexsmobs/leafcutter_anthill_spawns.json",
+      "hash": "983d5b8a09faf49e73d82af7e3fb0d6d8a28ec4d"
+    },
+    {
+      "path": "config/alexsmobs/lobster_spawns.json",
+      "hash": "bfa5934e707e1a5fac743d40eede8a78dae13ff1"
+    },
+    {
+      "path": "config/alexsmobs/maned_wolf_spawns.json",
+      "hash": "e7262e3a8d7dea88c22540ac36efd9b82524384e"
+    },
+    {
+      "path": "config/alexsmobs/mantis_shrimp_spawns.json",
+      "hash": "72ad572808fccf9db8b712f10c183d2a4b7553f1"
+    },
+    {
+      "path": "config/alexsmobs/mimicube_spawns.json",
+      "hash": "cd826a993f60f9e7d48610c8d2ee7fe5f9742759"
+    },
+    {
+      "path": "config/alexsmobs/mimic_octopus_spawns.json",
+      "hash": "5862e4f48b9ff0a91ae853b372ff39c1fdc1d811"
+    },
+    {
+      "path": "config/alexsmobs/moose_spawns.json",
+      "hash": "0338509e62946b67dab42a836e3f7173816d7e60"
+    },
+    {
+      "path": "config/alexsmobs/mudskipper_spawns.json",
+      "hash": "2dc9908d8f42e786d38bbdaba6a4ea5249dfb13e"
+    },
+    {
+      "path": "config/alexsmobs/mungus_spawns.json",
+      "hash": "984700d0723c99153ae6fe1ea99d960f9a9c2ee1"
+    },
+    {
+      "path": "config/alexsmobs/murmur.json",
+      "hash": "5d660cef1ae0a0b876657cfc05714f149e5b5c90"
+    },
+    {
+      "path": "config/alexsmobs/orca_spawns.json",
+      "hash": "146e692c90be265b1613fd9b1408f8ade11664e4"
+    },
+    {
+      "path": "config/alexsmobs/platypus_spawns.json",
+      "hash": "9eab8f02129434149d2987a9cc819e9ca7e5b7fe"
+    },
+    {
+      "path": "config/alexsmobs/potoo_spawns.json",
+      "hash": "426052ea6d093fe878779db6e1951a8accec897f"
+    },
+    {
+      "path": "config/alexsmobs/raccoon_spawns.json",
+      "hash": "aed625d8aa3416b513dc42f69c63804bbd5f4844"
+    },
+    {
+      "path": "config/alexsmobs/rain_frog_spawns.json",
+      "hash": "cfbc84bd92bb5e0bbc48c76264684b571c02b03a"
+    },
+    {
+      "path": "config/alexsmobs/rattlesnake_spawns.json",
+      "hash": "19d14f488a5838da1ce23d99c992daf473b85b71"
+    },
+    {
+      "path": "config/alexsmobs/rhinoceros_spawns.json",
+      "hash": "f7ef705fb7988c423de961ecf5b6b50207e7508c"
+    },
+    {
+      "path": "config/alexsmobs/roadrunner_spawns.json",
+      "hash": "19d14f488a5838da1ce23d99c992daf473b85b71"
+    },
+    {
+      "path": "config/alexsmobs/rocky_roller_spawns.json",
+      "hash": "f31c14bed619ed97480a4aedc5aa194f4c1370ca"
+    },
+    {
+      "path": "config/alexsmobs/seagull_spawns.json",
+      "hash": "c4e332410fcd6b13ec92c7a15f142e5155cb5274"
+    },
+    {
+      "path": "config/alexsmobs/seal_spawns.json",
+      "hash": "5ba26fd7341af3fde7f8d10e5f02610e50019c7e"
+    },
+    {
+      "path": "config/alexsmobs/shoebill_spawns.json",
+      "hash": "8f030f0a1139b65cb6e92e4984c48cdd10ffcbaa"
+    },
+    {
+      "path": "config/alexsmobs/skelewag_spawns.json",
+      "hash": "75a57df134990d2a97421412ee78f9111c38d41b"
+    },
+    {
+      "path": "config/alexsmobs/skreecher.json",
+      "hash": "740c686d3f6779fd3489b45d7b2efd266d61a448"
+    },
+    {
+      "path": "config/alexsmobs/skunk_spawns.json",
+      "hash": "0076cc9f728c452cf22a59943a7fae1db2c71f26"
+    },
+    {
+      "path": "config/alexsmobs/snow_leopard_spawns.json",
+      "hash": "969c78799fd70bc5ad20ce46a157b14ac4b7d6df"
+    },
+    {
+      "path": "config/alexsmobs/soul_vulture_spawns.json",
+      "hash": "d5308c6dc90f1a0d12707301407de4ff104b09d5"
+    },
+    {
+      "path": "config/alexsmobs/spectre_spawns.json",
+      "hash": "876c128ed4fc894d61aab0eb2c735e64fa6dc417"
+    },
+    {
+      "path": "config/alexsmobs/straddler_spawns.json",
+      "hash": "e4c76844b021e21b41fb5c9576bf09312c77b845"
+    },
+    {
+      "path": "config/alexsmobs/stradpole_spawns.json",
+      "hash": "e4c76844b021e21b41fb5c9576bf09312c77b845"
+    },
+    {
+      "path": "config/alexsmobs/sugar_glider_spawns.json",
+      "hash": "62d2952af8a99284a2072613584475532fa3976d"
+    },
+    {
+      "path": "config/alexsmobs/sunbird_spawns.json",
+      "hash": "d00d854a7a859be448d448854a489fb4bf5b3754"
+    },
+    {
+      "path": "config/alexsmobs/tarantula_hawk_spawns.json",
+      "hash": "cfbc84bd92bb5e0bbc48c76264684b571c02b03a"
+    },
+    {
+      "path": "config/alexsmobs/tasmanian_devil_spawns.json",
+      "hash": "167c8f350e93cdfe00e85956dfa7fe40363cda1d"
+    },
+    {
+      "path": "config/alexsmobs/terrapin_spawns.json",
+      "hash": "9eab8f02129434149d2987a9cc819e9ca7e5b7fe"
+    },
+    {
+      "path": "config/alexsmobs/tiger_spawns.json",
+      "hash": "50c690955ef10c27602d6cc9a146721998408c20"
+    },
+    {
+      "path": "config/alexsmobs/toucan_spawns.json",
+      "hash": "983d5b8a09faf49e73d82af7e3fb0d6d8a28ec4d"
+    },
+    {
+      "path": "config/alexsmobs/triops_spawns.json",
+      "hash": "cfbc84bd92bb5e0bbc48c76264684b571c02b03a"
+    },
+    {
+      "path": "config/alexsmobs/tusklin_spawns.json",
+      "hash": "34c622e3e5c3839d628085fc1cf0fdc4d93d0e5a"
+    },
+    {
+      "path": "config/alexsmobs/underminer.json",
+      "hash": "82e37fd704a5a10f7fa31b7b1107d2c1635887fe"
+    },
+    {
+      "path": "config/alexsmobs/void_worm_spawns.json",
+      "hash": "1ae814f47278ae5e83f93b711cb1b22df42fa5c4"
+    },
+    {
+      "path": "config/alexsmobs/warped_mosco_spawns.json",
+      "hash": "1ae814f47278ae5e83f93b711cb1b22df42fa5c4"
+    },
+    {
+      "path": "config/alexsmobs/warped_toad_spawns.json",
+      "hash": "5cd292af241f4ee8699dc810bccdcfe29135fcc9"
+    },
+    {
+      "path": "config/alexsmobs.toml",
+      "hash": "a6676ae0a67cf108cc68770b8f9716359d7a76a2"
+    },
+    {
+      "path": "config/almostunified/debug.json",
+      "hash": "7d25c26fbc125400905f34c1c2c11490223bed34"
+    },
+    {
+      "path": "config/almostunified/duplicates.json",
+      "hash": "14645ae477fd113b6e0bdf71fc95902b66856ebe"
+    },
+    {
+      "path": "config/almostunified/startup.json",
+      "hash": "64cda9d7a040677cb926e33de569816611d51cf5"
+    },
+    {
+      "path": "config/almostunified/unify.json",
+      "hash": "6dbaf81c1ce6965fe4b8a0f24508caf7494daa7d"
+    },
+    {
+      "path": "config/ambientsounds-client.json",
+      "hash": "4ca7f2f283a7d9445b077efc46ab05c543438ee0"
+    },
+    {
+      "path": "config/amendments-client.toml",
+      "hash": "5a52faec12873711c03a5b037b45b56f6f580e6c"
+    },
+    {
+      "path": "config/amendments-common.toml",
+      "hash": "6e79efdf44f62d92b1f4383550dc2b5059a78cc8"
+    },
+    {
+      "path": "config/appleskin-client.toml",
+      "hash": "01ddb88e420140c33e4cfc0c105edd6e40a5f2c7"
+    },
+    {
+      "path": "config/artifacts/client.json5",
+      "hash": "bef425caaadc687e5631e449d8ed04cbde91b811"
+    },
+    {
+      "path": "config/artifacts/common.json5",
+      "hash": "deaf54934c7839aed557d78256f459af97b5a316"
+    },
+    {
+      "path": "config/attributefix.json",
+      "hash": "7c141104c81af199b887541df1d445d9851efd5e"
+    },
+    {
+      "path": "config/balm-common.toml",
+      "hash": "d658b683f7a01a8d892af452f2ef8c3d3dd04c57"
+    },
+    {
+      "path": "config/bcc-common.toml",
+      "hash": "dec7dbc923cbe05bb8a4c6c809c7eeb6e7334009"
+    },
+    {
+      "path": "config/betterchunkloading.json",
+      "hash": "90162b02c94e7f3fb957603ad1bd34a4b47aad5b"
+    },
+    {
+      "path": "config/betterendisland-forge-1_20.toml",
+      "hash": "fb3f32b91838fc1a59cd872e197b73030c1b618a"
+    },
+    {
+      "path": "config/betterfortresses/forge-1_20/itemframes.json",
+      "hash": "2118537a0b179c63cbd8678590a3a31099764251"
+    },
+    {
+      "path": "config/betterfortresses/forge-1_20/README.txt",
+      "hash": "abaeda3856b09c5dd80e1b5ada9aaf171d038995"
+    },
+    {
+      "path": "config/betterfortresses/README.txt",
+      "hash": "47114a7baec2e0322dab1c88424d43c58c2e756a"
+    },
+    {
+      "path": "config/betterfortresses-forge-1_20.toml",
+      "hash": "936c1a76752bd191fb9d6c80904073e2a18e1ee5"
+    },
+    {
+      "path": "config/bettermineshafts-forge-1_20.toml",
+      "hash": "b517fe33dcb6043247b3c6cf5116b1e8cc28e953"
+    },
+    {
+      "path": "config/betteroceanmonuments-forge-1_20.toml",
+      "hash": "aa643542a9b54bcc7ecbb3a5a910b5fe4770d5c8"
+    },
+    {
+      "path": "config/betterpingdisplay-client.toml",
+      "hash": "3c389c6e4f50199bec067b8b83c3ed59321cb675"
+    },
+    {
+      "path": "config/betterstrongholds/forge-1_20/armorstands.json",
+      "hash": "28ca66b432c94c44e3c2ace70e5b0da0718fb240"
+    },
+    {
+      "path": "config/betterstrongholds/forge-1_20/itemframes.json",
+      "hash": "a5949f986f25e9feee86b6cb41ad7ccf2071e156"
+    },
+    {
+      "path": "config/betterstrongholds/forge-1_20/ores.json",
+      "hash": "0de75d48c092ac368f039e57cd5159e10e9427eb"
+    },
+    {
+      "path": "config/betterstrongholds/forge-1_20/rareblocks.json",
+      "hash": "8c88e9886fae74c1d914fd42cd26133e6a8d0c71"
+    },
+    {
+      "path": "config/betterstrongholds/forge-1_20/README.txt",
+      "hash": "ee9c20aeefab7187288a4289d129a3155efa5823"
+    },
+    {
+      "path": "config/betterstrongholds/README.txt",
+      "hash": "cc2cfb4e58d5ef7e29795acce86899d5fd1cce10"
+    },
+    {
+      "path": "config/betterstrongholds-forge-1_20.toml",
+      "hash": "f53e115280fc224ab07de692a62ec5797fdba2a6"
+    },
+    {
+      "path": "config/betterwitchhuts-forge-1_20.toml",
+      "hash": "b0ca5851ba8d18b60afbade88afcea9a01141a27"
+    },
+    {
+      "path": "config/biomesoplenty/biome_toggles.json",
+      "hash": "9bb1818da5a78ffd167fadf30d118e96af378e0b"
+    },
+    {
+      "path": "config/biomesoplenty/generation.toml",
+      "hash": "eb379261d57303e2e9601063eabba7ae19efea10"
+    },
+    {
+      "path": "config/biomespawnpoint/spawnbiomes.txt",
+      "hash": "826f5c14de3e90b1744a15db5726338577eafef5"
+    },
+    {
+      "path": "config/bloodmagic-client.toml",
+      "hash": "54e95cd98446e97a1e57f405e1d53123a7ff9cea"
+    },
+    {
+      "path": "config/bloodmagic-common.toml",
+      "hash": "9790455e9effb3be239b0f58eb48b3052d310562"
+    },
+    {
+      "path": "config/blueprint-client.toml",
+      "hash": "3956f3e3d14a7dd2e955c14352b0f873290e07d1"
+    },
+    {
+      "path": "config/blueprint-common.toml",
+      "hash": "a710ec24b1e1c4a3ca3c153e140fd05238f9d9b4"
+    },
+    {
+      "path": "config/blue_skies-client.toml",
+      "hash": "6bd98008c96cbf34b67502739d75a9935877b387"
+    },
+    {
+      "path": "config/blue_skies-common.toml",
+      "hash": "7423decc1aca64035bc91a2bd4f0e9a3cbde367e"
+    },
+    {
+      "path": "config/bosses_of_mass_destruction.json5",
+      "hash": "e31000c44459219584440e097d728af959629ab1"
+    },
+    {
+      "path": "config/botania-client.toml",
+      "hash": "4e3898e5ecf347e74eac0ddda2062818bce801ab"
+    },
+    {
+      "path": "config/botania-common.toml",
+      "hash": "14ae910bd57d11cceb4597f413ed5923d3c9ffb4"
+    },
+    {
+      "path": "config/canary.properties",
+      "hash": "da21a52310e2d5c6b393a06b58d15a38ae3bf863"
+    },
+    {
+      "path": "config/carryon-client.toml",
+      "hash": "9fb9fbd6e6ec34a8f19e6a1e3adc113119448bec"
+    },
+    {
+      "path": "config/carryon-common.toml",
+      "hash": "022d429aeed34162b2c3d8b1ba51b1e258b75687"
+    },
+    {
+      "path": "config/chat_heads.json5",
+      "hash": "26cef99cc13abad6d43bba9fe3df92279e05fca7"
+    },
+    {
+      "path": "config/chicken_nerf-common.toml",
+      "hash": "5f09aae84060b7bf8cdc37a0421104c0af24eeae"
+    },
+    {
+      "path": "config/chimes-client.toml",
+      "hash": "9406facf160fcac03ee2967a701a21a77cee0b26"
+    },
+    {
+      "path": "config/chimes-common.toml",
+      "hash": "dbfb609ddda906b79353f9a19c97c1f42213ff6d"
+    },
+    {
+      "path": "config/chunksending.json",
+      "hash": "d387591eb7052aea9f328a0fe88db3197704ce72"
+    },
+    {
+      "path": "config/chunky/config.json",
+      "hash": "a8157f2e1e649b891aaccb8ec83d38c84429c82a"
+    },
+    {
+      "path": "config/citadel-common.toml",
+      "hash": "f3aad9442cc4ae95760ceb68f75d5735e9247f6a"
+    },
+    {
+      "path": "config/clean_tooltips-client.toml",
+      "hash": "311fb2847dd8c41da9bdb2fce1fb5d25c1dd6ae5"
+    },
+    {
+      "path": "config/coldsweat/client.toml",
+      "hash": "0ba4e5266dc8705f8d9c61c47e3190a16758a2b8"
+    },
+    {
+      "path": "config/coldsweat/entity_settings.toml",
+      "hash": "2f96ec042b06379c11aecfcb50f1ed907d3a74d0"
+    },
+    {
+      "path": "config/coldsweat/item_settings.toml",
+      "hash": "019da5901a603b671fa995130ef96bb889c80b0e"
+    },
+    {
+      "path": "config/coldsweat/main.toml",
+      "hash": "b76631069395ece1cd0d343065073722717c66c0"
+    },
+    {
+      "path": "config/coldsweat/world_settings.toml",
+      "hash": "5fd18b187303b2808b8ef85cd0069240d9245821"
+    },
+    {
+      "path": "config/collective.json5",
+      "hash": "840adf33852578f239021004dd2412c8cf6c3f58"
+    },
+    {
+      "path": "config/combatnouveau-client.toml",
+      "hash": "bbfdcf76531c1f4bcb220b9ad72b98387db8aff2"
+    },
+    {
+      "path": "config/combatnouveau-server.toml",
+      "hash": "a268b64fb0a3dbea4935db37d8a9955625163147"
+    },
+    {
+      "path": "config/comforts-server.toml",
+      "hash": "5a1bf3602fc838a0f16bb433a24ca14f7ef7a943"
+    },
+    {
+      "path": "config/configured-client.toml",
+      "hash": "c4b064426a9c637df9d373cd60839250caf1b2a2"
+    },
+    {
+      "path": "config/copycats-client.toml",
+      "hash": "f3464662aebb9524b532879da8356de33849f972"
+    },
+    {
+      "path": "config/copycats-common.toml",
+      "hash": "8375e9f0d201dcd6ff559d9b610ec3a6583440fc"
+    },
+    {
+      "path": "config/cosmeticarmorreworked-client.toml",
+      "hash": "ae16b9d64e0ce6a136e8feb2533859729fb4daf9"
+    },
+    {
+      "path": "config/cosmeticarmorreworked-common.toml",
+      "hash": "1c8e89f7f3f6a305ca79dd5b32511aea9c6a6f36"
+    },
+    {
+      "path": "config/create-client.toml",
+      "hash": "c6f642af1276ec0d504145ad4b7225c6145a7e9e"
+    },
+    {
+      "path": "config/create-common.toml",
+      "hash": "41cda6916fe6ee82d14411d094f884862ef2b3de"
+    },
+    {
+      "path": "config/createpickywheels-common.toml",
+      "hash": "d2030c231b6c1ef520fdd241942ce6efac9162c0"
+    },
+    {
+      "path": "config/create_central_kitchen-common.toml",
+      "hash": "47fa463a46d4246bf260f9ac49cd4916e167b567"
+    },
+    {
+      "path": "config/create_connected-common.toml",
+      "hash": "69eeb88140ef2f8dbf4d32d53424715765699726"
+    },
+    {
+      "path": "config/create_new_age-client.toml",
+      "hash": "496d11b4d81138333a0dc9bc8cf12689e5626eea"
+    },
+    {
+      "path": "config/create_new_age-common.toml",
+      "hash": "3e98869f9de9718c610ca497cfb71e7684f9a875"
+    },
+    {
+      "path": "config/cull-less-leaves.json",
+      "hash": "62ff3023e189145815899d2d0b35b362fe5a9f5d"
+    },
+    {
+      "path": "config/cupboard.json",
+      "hash": "6a45b1470818d4cc0510d1d561857513ae1f29df"
+    },
+    {
+      "path": "config/curios-client.toml",
+      "hash": "d38079ec63ce9151e9822573afa4773469303baa"
+    },
+    {
+      "path": "config/curios-common.toml",
+      "hash": "71b3af0db517d1651174a40732633899cbabc927"
+    },
+    {
+      "path": "config/cutthrough-client.toml",
+      "hash": "7ddc5743925ef7642dcae96eb08bf7fe24e0682e"
+    },
+    {
+      "path": "config/cyclopscore-common.toml",
+      "hash": "7b3e1591ea710a92ae4883368782927d1f2aebac"
+    },
+    {
+      "path": "config/deathcounter-client.toml",
+      "hash": "2eaba77deb09b215e69442cb439a5c3a3237647b"
+    },
+    {
+      "path": "config/deathcounter-common.toml",
+      "hash": "44b327acf9e38883a1192f0edd653590d70b773d"
+    },
+    {
+      "path": "config/default.json",
+      "hash": "18d36594502a93e8e8960ddf7a2627329eb259a0"
+    },
+    {
+      "path": "config/defaultoptions/keybindings.txt",
+      "hash": "415615022cfd8c0d5782f7733e697b0067131dd5"
+    },
+    {
+      "path": "config/defaultoptions-common.toml",
+      "hash": "bdd856c7f0b901ba0aa5640ad7f2ab46fc209bcd"
+    },
+    {
+      "path": "config/diet-client.toml",
+      "hash": "fc5746447fd57e24fc748a53d0c97986e2226b6b"
+    },
+    {
+      "path": "config/diet-server.toml",
+      "hash": "d37a269d385d479c3cdabb8160a4fe1494ed92bd"
+    },
+    {
+      "path": "config/doubledoors.json5",
+      "hash": "194fc97bbba974b2401a894930694c42bac86c65"
+    },
+    {
+      "path": "config/drawerstooltip-client.yaml",
+      "hash": "6a711ede9e6e491bdaba3165b0f189e1b6f76c0a"
+    },
+    {
+      "path": "config/drippyloadingscreen/defaultoptions/options.txt",
+      "hash": "6e1d8e82fb2208a76e1112386bf79108557e3fdf"
+    },
+    {
+      "path": "config/drippyloadingscreen/options.txt",
+      "hash": "3d171a6e718d989c19578c23199d9a0c22304e04"
+    },
+    {
+      "path": "config/durabilitytooltip-common.toml",
+      "hash": "8e44a0c0a0bd0d19901bc0713af847fb3abe5853"
+    },
+    {
+      "path": "config/easyanvils-client.toml",
+      "hash": "f3bfa8f96afff5f3e5c95dd9773ed9fe54e26c40"
+    },
+    {
+      "path": "config/easyanvils-server.toml",
+      "hash": "8ab039a3329f31ea249d67472370dd3e2e8de091"
+    },
+    {
+      "path": "config/embeddium-fingerprint.json",
+      "hash": "3a786ff2e1fcf21510b4dc35a3801f63105f814b"
+    },
+    {
+      "path": "config/embeddium-mixins.properties",
+      "hash": "a729ee50d18cf2204ff9fc33bc21641d55185c88"
+    },
+    {
+      "path": "config/embeddium-options.json",
+      "hash": "9af62056b289cf3418f3926b74138610a2bc98b7"
+    },
+    {
+      "path": "config/enchdesc.json",
+      "hash": "d343c7b0f6c28fd6759196e0349dcb875c4f7ce9"
+    },
+    {
+      "path": "config/eternalwinter-common.toml",
+      "hash": "9a1457407bd697825479d042cdfdcc3c51b9f2c0"
+    },
+    {
+      "path": "config/everycomp-common.toml",
+      "hash": "4fdfbc3af28bdd1a34b5405b90484a36983f6360"
+    },
+    {
+      "path": "config/everycomp-hazardous.properties",
+      "hash": "40cd4bce9bca624a3d9c59c049c305d6ac68386c"
+    },
+    {
+      "path": "config/fallingleaves-client.toml",
+      "hash": "4c66b6df2031c4c57a554d7f126eccaa96517169"
+    },
+    {
+      "path": "config/fancymenu/assets/bg.png",
+      "hash": "07b5f66c39364b14191fb96bd3827891202b7e8b"
+    },
+    {
+      "path": "config/fancymenu/assets/buran.png",
+      "hash": "686504e55d4073e2d01d08f2f586d68f40c728e0"
+    },
+    {
+      "path": "config/fancymenu/assets/icon.png",
+      "hash": "004889f870a331862d0f0ae849365bd22f46b60c"
+    },
+    {
+      "path": "config/fancymenu/assets/icon16.png",
+      "hash": "159abb90e6a7b87c7c5bf8e8e699be51e03a4b30"
+    },
+    {
+      "path": "config/fancymenu/assets/icon32.png",
+      "hash": "c9880abad356fd9ba87b3df4108013893e2f5a33"
+    },
+    {
+      "path": "config/fancymenu/assets/icon_mac.icns",
+      "hash": "c8d4aa74c3afba0884fdea6bf0a26900a74650a4"
+    },
+    {
+      "path": "config/fancymenu/assets/icon_new.png",
+      "hash": "62d5ab9cf322f464b393bf84f4091bdb0b4a8813"
+    },
+    {
+      "path": "config/fancymenu/assets/icon_new_small.png",
+      "hash": "22da03e8124f6dd1e6ef2b80960ecf97059e4c7a"
+    },
+    {
+      "path": "config/fancymenu/assets/icon_new_small16.png",
+      "hash": "af057d2a82dd2452fd0870f7445662c09b6b2731"
+    },
+    {
+      "path": "config/fancymenu/assets/icon_new_small32.png",
+      "hash": "f1df0cf30e12d54e8142748574e1a557970dac62"
+    },
+    {
+      "path": "config/fancymenu/assets/jacky.png",
+      "hash": "9242262d49ebfbe584822d98906bc4ddf33ea726"
+    },
+    {
+      "path": "config/fancymenu/assets/logo.png",
+      "hash": "7385e2004eb46f5081cd02c5425390c994123f26"
+    },
+    {
+      "path": "config/fancymenu/assets/logo_new.png",
+      "hash": "a82c90679db17bb1c80fffed6fb1307e50ac3f11"
+    },
+    {
+      "path": "config/fancymenu/assets/logo_plain.png",
+      "hash": "382bb11082f9182c5a3254e81aeb5d84c6566904"
+    },
+    {
+      "path": "config/fancymenu/assets/midnight.png",
+      "hash": "99c2b49c2b790d83f49b5259f2ae7ab0395b2b99"
+    },
+    {
+      "path": "config/fancymenu/customizablemenus.txt",
+      "hash": "0217d324179858b3358beb03a6c9d48ddbeceb31"
+    },
+    {
+      "path": "config/fancymenu/customization/about_layout.txt",
+      "hash": "81c5a1c9e9b08ad2cc5b8b3d06532e8390ebd902"
+    },
+    {
+      "path": "config/fancymenu/customization/drippy_loading_overlay_layout.txt",
+      "hash": "dab4957b89ab4da08af96e29ae055e42d168f5dc"
+    },
+    {
+      "path": "config/fancymenu/customization/pause_screen_layout.txt",
+      "hash": "a4230f2a494734c8df120ff882f43373c4784000"
+    },
+    {
+      "path": "config/fancymenu/customization/title_screen_layout.txt",
+      "hash": "a534425b9a8f36782a2f2af26018a7e9a2d5d5cf"
+    },
+    {
+      "path": "config/fancymenu/customization/universal_layout.txt",
+      "hash": "850d7b2a45cdf6a432552d9b1ac08f075e1580d0"
+    },
+    {
+      "path": "config/fancymenu/custom_gui_screens.txt",
+      "hash": "76af4e79acc9d7d53f0d42a5b60b1b0d95517b14"
+    },
+    {
+      "path": "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget",
+      "hash": "a8003a531295bc72427451a474e17a01fceee51e"
+    },
+    {
+      "path": "config/fancymenu/legacy_checklist.txt",
+      "hash": "f1569161a6ad24cc61b02dece317ea16e351ff1e"
+    },
+    {
+      "path": "config/fancymenu/options.txt",
+      "hash": "1d1c003ee780925d7c83c75a16a94ff969c84fc6"
+    },
+    {
+      "path": "config/fancymenu/panoramas/panorama1/panorama/panorama_0.png",
+      "hash": "7aeb43d3d3bb9dc33acb8dd939a669432c1dcb88"
+    },
+    {
+      "path": "config/fancymenu/panoramas/panorama1/panorama/panorama_1.png",
+      "hash": "f5f62e4f546c3166078e8c4ad7828118114e2da0"
+    },
+    {
+      "path": "config/fancymenu/panoramas/panorama1/panorama/panorama_2.png",
+      "hash": "e85a6a6bb68e2cf57e847effa0631fd48540ab34"
+    },
+    {
+      "path": "config/fancymenu/panoramas/panorama1/panorama/panorama_3.png",
+      "hash": "2865ec319e4717f69dac2d110691722a8c116b4e"
+    },
+    {
+      "path": "config/fancymenu/panoramas/panorama1/panorama/panorama_4.png",
+      "hash": "dba09bef3fe3b94b29ebdc25759580e2366c04bd"
+    },
+    {
+      "path": "config/fancymenu/panoramas/panorama1/panorama/panorama_5.png",
+      "hash": "aa8fef6024e5866a3b897f736466567ab77e336c"
+    },
+    {
+      "path": "config/fancymenu/panoramas/panorama1/properties.txt",
+      "hash": "d0558cbe16f50538e25e707f7aff7fcf5ce0b081"
+    },
+    {
+      "path": "config/fancymenu/ui_themes/dark.json",
+      "hash": "8bc3d8999f5dde0c62b31424d63dc7d046b70ba9"
+    },
+    {
+      "path": "config/fancymenu/ui_themes/light.json",
+      "hash": "fb42def9e33a2792c19002a717318ec733283e8d"
+    },
+    {
+      "path": "config/fancymenu/user_variables.db",
+      "hash": "b41f9d7688944b0d96eaa089a5a5bb74af28d258"
+    },
+    {
+      "path": "config/farmersdelight-client.toml",
+      "hash": "7109adf50788f4bf5797dd3809ad0dc923c8f023"
+    },
+    {
+      "path": "config/farmersdelight-common.toml",
+      "hash": "a0fbeadaf9f7876059852ca40e903d9ad4d0ac48"
+    },
+    {
+      "path": "config/farsight.json",
+      "hash": "2b215712af430e5f1bba0a60a2235a6b766c8a22"
+    },
+    {
+      "path": "config/ferritecore-mixin.toml",
+      "hash": "bada32b53873ce4121ffefb82ca804c94aef2e0b"
+    },
+    {
+      "path": "config/flywheel-client.toml",
+      "hash": "2f2ab61806dd8d920b5154ba8d8094f2c0f6710d"
+    },
+    {
+      "path": "config/fml.toml",
+      "hash": "13b97af47795df38aed62eb9b1a01266ecdaa64f"
+    },
+    {
+      "path": "config/foodeffecttooltips-client.toml",
+      "hash": "0002ba8a31f0b25b63952de04104e1cf89c0ac3a"
+    },
+    {
+      "path": "config/forge-client.toml",
+      "hash": "5dcc032ce1e3d9e4a9552880f8de2e2c71fcdb1e"
+    },
+    {
+      "path": "config/fpsreducer/fpsreducer-client.toml",
+      "hash": "67e144e94d0edd655a68d4ab1b4b566d4dce7e28"
+    },
+    {
+      "path": "config/ftbquests/quests/chapters/02DDD45373A8DC5E.snbt",
+      "hash": "528732efbc6ecf040b508dd66046cd7559d55fc9"
+    },
+    {
+      "path": "config/ftbquests/quests/chapters/0E2F8F4C2B4CBD8C.snbt",
+      "hash": "a87ca399baf11688f22ad19a89c615a058687d46"
+    },
+    {
+      "path": "config/ftbquests/quests/chapters/1BB45CAF6A2385E2.snbt",
+      "hash": "cd7b19f4167d460e05ecec0631bd7e53810c40a6"
+    },
+    {
+      "path": "config/ftbquests/quests/chapters/1D53DE04FE0F0355.snbt",
+      "hash": "70843e6acf795f40daa7b2c3a68a88ef774929e5"
+    },
+    {
+      "path": "config/ftbquests/quests/chapters/21E029A01EA15F54.snbt",
+      "hash": "6afc151548d24bc80994156b6b5d205909df01a3"
+    },
+    {
+      "path": "config/ftbquests/quests/chapters/24C2242397E3BB49.snbt",
+      "hash": "0155a355bc6b826c755441740ae2a98ef89b947d"
+    },
+    {
+      "path": "config/ftbquests/quests/chapters/2716B41E11042107.snbt",
+      "hash": "a61c3fea75a8cc94bb7e40720d57d66f61c3ebe5"
+    },
+    {
+      "path": "config/ftbquests/quests/chapters/31996D3CC5C02EFC.snbt",
+      "hash": "eda16ec99414647c321bccbc6528961570937578"
+    },
+    {
+      "path": "config/ftbquests/quests/chapters/353C97FD3B60ED7C.snbt",
+      "hash": "90fdc9f444777d2dd685afe19c244cfd08d13d6b"
+    },
+    {
+      "path": "config/ftbquests/quests/chapters/3A373AEB9028A418.snbt",
+      "hash": "665ee17082b2ad3c21366fa4bed0b5fd77947f6a"
+    },
+    {
+      "path": "config/ftbquests/quests/chapters/41206A891883629D.snbt",
+      "hash": "a1607ff67346e60dd7023c4c719815fa8f0e9f43"
+    },
+    {
+      "path": "config/ftbquests/quests/chapters/4BEFF532B40045D5.snbt",
+      "hash": "bf6ec027321818a0d5bf7fb3e805e7dfad58b5cd"
+    },
+    {
+      "path": "config/ftbquests/quests/chapters/4F2AC29E9F4DB90D.snbt",
+      "hash": "126204dfe4f3fc7108721745fd3f43fed4b714be"
+    },
+    {
+      "path": "config/ftbquests/quests/chapters/54FEB8EFCDFE57CF.snbt",
+      "hash": "84b11ec1e8c4e339e57d7591cc621174dc85e1d5"
+    },
+    {
+      "path": "config/ftbquests/quests/chapters/563F31BF1B1FE486.snbt",
+      "hash": "087b2cf7b7aef692b5e6dc6b7d2ae813fb497afa"
+    },
+    {
+      "path": "config/ftbquests/quests/chapters/58C198C40A81EF6B.snbt",
+      "hash": "cec5a9f17643ad063adb5f383a726fea120d3725"
+    },
+    {
+      "path": "config/ftbquests/quests/chapters/59B76A6AF749A1DB.snbt",
+      "hash": "b8167aa1bbd4b65628547b2df8de4e7649129245"
+    },
+    {
+      "path": "config/ftbquests/quests/chapters/618B001D3C0B96CC.snbt",
+      "hash": "12e91fdff2608ef5dd5ecaf73475d0ccaaf1e64f"
+    },
+    {
+      "path": "config/ftbquests/quests/chapters/647B956B51DE79FC.snbt",
+      "hash": "357f5594f3c048e183c74664cf6547fcb5992c2a"
+    },
+    {
+      "path": "config/ftbquests/quests/chapters/75FCB41C7CD72B90.snbt",
+      "hash": "c72750b8b6734bc115e8cc5fad8a292500472ec7"
+    },
+    {
+      "path": "config/ftbquests/quests/chapters/7AE641FF7F1535BF.snbt",
+      "hash": "4525803ef285553d7d479c243d10fe4f9ca460b1"
+    },
+    {
+      "path": "config/ftbquests/quests/chapters/7C70C5EA37137857.snbt",
+      "hash": "0d11d370ad95ccbc429170f9528b7260dbe77981"
+    },
+    {
+      "path": "config/ftbquests/quests/chapters/7F0791F4B66B5D63.snbt",
+      "hash": "b0fd879006af402e9246a6a46db318b0bcca4261"
+    },
+    {
+      "path": "config/ftbquests/quests/chapter_groups.snbt",
+      "hash": "a70e38e091ab037875e662b5a4fc3c7471b2b9a8"
+    },
+    {
+      "path": "config/ftbquests/quests/data.snbt",
+      "hash": "31712db285b19494013a82723e144a89965aa213"
+    },
+    {
+      "path": "config/ftbxmodcompat.snbt",
+      "hash": "19266805216c9bc71b88d975ab0be2df95cd64b3"
+    },
+    {
+      "path": "config/hardcorerevival-common.toml",
+      "hash": "9f918163fb5037cafc9bd6bc83f8253e86286544"
+    },
+    {
+      "path": "config/hardernaturalhealing-common.toml",
+      "hash": "cc2ac8ddbde259920f7fc7ba69b87b27feedf417"
+    },
+    {
+      "path": "config/helditemtooltips-client.toml",
+      "hash": "cb17295329d0bc48969cea191412fc2a9f81f10b"
+    },
+    {
+      "path": "config/hourglass-client.toml",
+      "hash": "861e5f17a83e53470c86a492bc2cf266e6988894"
+    },
+    {
+      "path": "config/iammusicplayer.toml",
+      "hash": "fc5375acd3b41bef425acdc8bad7cbae878aad2f"
+    },
+    {
+      "path": "config/imblocker-client.toml",
+      "hash": "eea17adf9edb800098d3b312e8add06221282675"
+    },
+    {
+      "path": "config/immediatelyfast.json",
+      "hash": "144f5961faa7a1a280a55b617b877433a44b0894"
+    },
+    {
+      "path": "config/immersiveengineering-client.toml",
+      "hash": "7fe9ea870c8b2fdbe509e82b7d7b59ee5f0ae912"
+    },
+    {
+      "path": "config/immersiveengineering-common.toml",
+      "hash": "4b228c00c27ca269f0a96600c47200054a1ceebf"
+    },
+    {
+      "path": "config/immersive_aircraft.json",
+      "hash": "a076e52abd62bd07694a7c37e5b43a1e115ed6c1"
+    },
+    {
+      "path": "config/immersive_armors.json",
+      "hash": "b77a53cad3844f94749a9fc458b78ad602f8d501"
+    },
+    {
+      "path": "config/immersive_paintings.json",
+      "hash": "3fda63d6a6fe8e4eafe9872c58fa8695283e3986"
+    },
+    {
+      "path": "config/immersive_weathering-client.toml",
+      "hash": "a0a2e1887dd5adaa8574f563d8e62ee9af9ed394"
+    },
+    {
+      "path": "config/immersive_weathering-common.toml",
+      "hash": "0cb161750794b1176c78e4cb038ca939868704f7"
+    },
+    {
+      "path": "config/irons_spellbooks-client.toml",
+      "hash": "e0a58d7985d009b7f9136b7ad3ab5ffbefa97b01"
+    },
+    {
+      "path": "config/jade/hide-blocks.json",
+      "hash": "f224d33c08845ff186fd28af12519ed28f26b0f4"
+    },
+    {
+      "path": "config/jade/hide-entities.json",
+      "hash": "2b7f7b105f41aea03a2bb5d0d7ceaff0df2f9cc3"
+    },
+    {
+      "path": "config/jade/jade.json",
+      "hash": "4f8e8ea058b25c122422152b689ae1a7f12b321a"
+    },
+    {
+      "path": "config/jade/plugins.json",
+      "hash": "fca5c9ff9a324decc3a58daa1f77411699fbd392"
+    },
+    {
+      "path": "config/jade/sort-order.json",
+      "hash": "00ba319defc7bab6f504848aea7d33d564918d16"
+    },
+    {
+      "path": "config/jearchaeology-common.toml",
+      "hash": "86ec5d5126ecc1c8721c26330b9f2d7a09a2dab9"
+    },
+    {
+      "path": "config/jecharacters.toml",
+      "hash": "48f70c578daef7312d44f75372decfd4738945b2"
+    },
+    {
+      "path": "config/jeed-client.toml",
+      "hash": "c3dd867e2224ad16fc5812a2597405456eef4b13"
+    },
+    {
+      "path": "config/jei/blacklist.cfg",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "config/jei/ingredient-list-mod-sort-order.ini",
+      "hash": "ceeb579c587d202e6025ba85da5c0f3b141c3c8c"
+    },
+    {
+      "path": "config/jei/ingredient-list-type-sort-order.ini",
+      "hash": "0e0fe9bc0819e6c70a32ad1d34cd14eea50d3d93"
+    },
+    {
+      "path": "config/jei/jei-client.ini",
+      "hash": "67ff1ce2ef09db0664d3e40d6f324ce1ac84dbdf"
+    },
+    {
+      "path": "config/jei/jei-colors.ini",
+      "hash": "c973cab829ccdc4dd2d0f56ebd27b10e33678ad4"
+    },
+    {
+      "path": "config/jei/jei-debug.ini",
+      "hash": "dd6106bd2ac4a3d2b02793ee58e46fb5786f758c"
+    },
+    {
+      "path": "config/jei/jei-mod-id-format.ini",
+      "hash": "deff4edb19c6e15cc79c24d043e7cadc21adbfe7"
+    },
+    {
+      "path": "config/jei/recipe-category-sort-order.ini",
+      "hash": "f24f7bc87d2a63185de9d888a20f500d58b25476"
+    },
+    {
+      "path": "config/jei/world/local/bookmarks.ini",
+      "hash": "0f54ff3996b802a275026a835bc95078b45b92f8"
+    },
+    {
+      "path": "config/jei/world/local/______1/bookmarks.ini",
+      "hash": "11405284afc3e91bbec44e9eac4e01cb4ebc77a6"
+    },
+    {
+      "path": "config/jei/world/server/Minecraft____4a6f942c/bookmarks.ini",
+      "hash": "bcfb43c61b8d13e5231e1aa5dcbf722011fd4b96"
+    },
+    {
+      "path": "config/jeresources-common.toml",
+      "hash": "6aa78dcf4043839e101c0b116a05d6e936272585"
+    },
+    {
+      "path": "config/jeresources.toml",
+      "hash": "5488c358d2c0aa830e73bc9795a1a18c36256407"
+    },
+    {
+      "path": "config/kiwi-client.yaml",
+      "hash": "23e0f7d1249faeb58be07c532226564ca11b5428"
+    },
+    {
+      "path": "config/kiwi-common.yaml",
+      "hash": "6c248c8bf0dd473b61d0dfca5a5a3a69c9ac7448"
+    },
+    {
+      "path": "config/kleeslabs-common.toml",
+      "hash": "39e2eda7e081c1c4f66cafc86cc093d20f64729b"
+    },
+    {
+      "path": "config/konkrete/locals/de_de.local",
+      "hash": "02adaf2602f1ba03a9352db3d10a6fac3a02aea5"
+    },
+    {
+      "path": "config/konkrete/locals/en_us.local",
+      "hash": "42badc338e767559db38a67bd3e8020a92000e56"
+    },
+    {
+      "path": "config/konkrete/locals/pl_pl.local",
+      "hash": "adf2ded54b4952ca83af26a1217e2c5db8ac1429"
+    },
+    {
+      "path": "config/konkrete/locals/pt_br.local",
+      "hash": "9c324fb4d33106366e6cbb5400c8c34f11539d34"
+    },
+    {
+      "path": "config/leavemybarsalone-client.toml",
+      "hash": "d32315a18d80157874c12be6af3812365a7afaaa"
+    },
+    {
+      "path": "config/lithium.properties",
+      "hash": "65b5df6be2f19763b33dd8b1a1ac5323c6e5f2fb"
+    },
+    {
+      "path": "config/lsp.json",
+      "hash": "ad7bd9dd24960605b80df2a8fa91840cd282af15"
+    },
+    {
+      "path": "config/lucent-client.toml",
+      "hash": "4ebdc0dcb9b598e06f660690f8a3f96db8cd0dd7"
+    },
+    {
+      "path": "config/modelfix-client.toml",
+      "hash": "99403445ea50f257d4e713289e50d2f11006ef51"
+    },
+    {
+      "path": "config/modernfix-common.toml",
+      "hash": "046452d3af87f5c1fd5de5650e3d1b73c930fd92"
+    },
+    {
+      "path": "config/modernfix-mixins.properties",
+      "hash": "7bbcbbb219de679733f00541923ac5e92cb5fba6"
+    },
+    {
+      "path": "config/moonlight-client.toml",
+      "hash": "0a3badd7a72967ed7497f72dbe9a3d5c3afcb718"
+    },
+    {
+      "path": "config/moonlight-common.toml",
+      "hash": "ba8ab5a0280b953aa97435ff8946cbcbb2755a27"
+    },
+    {
+      "path": "config/musicmanager-client.toml",
+      "hash": "7a448abe1f742008da9c006766ff66247c018164"
+    },
+    {
+      "path": "config/naturescompass-client.toml",
+      "hash": "9572a3ae9de126cf0eceb382cf3ceb11c0cbc6e4"
+    },
+    {
+      "path": "config/naturescompass-common.toml",
+      "hash": "095abcfd7de9e2ce5dc7b3288a91cf5e1cd91e8d"
+    },
+    {
+      "path": "config/nec/pack/assets/nec/lang/en_us.json",
+      "hash": "dff8a1731f59ccad056b346102d1e1d014b843f3"
+    },
+    {
+      "path": "config/nec/pack/assets/nec/sounds.json",
+      "hash": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "config/nec/pack/data/forge/tags/blocks/chests/wooden.json",
+      "hash": "8a23702b05296c8af5014d6aa6e9265ded85c7d9"
+    },
+    {
+      "path": "config/nec/pack/data/forge/tags/blocks/chests.json",
+      "hash": "8a23702b05296c8af5014d6aa6e9265ded85c7d9"
+    },
+    {
+      "path": "config/nec/pack/data/forge/tags/items/chests/wooden.json",
+      "hash": "8a23702b05296c8af5014d6aa6e9265ded85c7d9"
+    },
+    {
+      "path": "config/nec/pack/data/forge/tags/items/chests.json",
+      "hash": "8a23702b05296c8af5014d6aa6e9265ded85c7d9"
+    },
+    {
+      "path": "config/nec/pack/data/minecraft/tags/blocks/mineable/axe.json",
+      "hash": "8a23702b05296c8af5014d6aa6e9265ded85c7d9"
+    },
+    {
+      "path": "config/netherdepthsupgrade-common.toml",
+      "hash": "594450efd3accc48fef02a1f94b33f1309f8d29e"
+    },
+    {
+      "path": "config/NoChatReports/NCR-Client.json",
+      "hash": "1493c077473fe3f8a2216a24156d6ccab79de39a"
+    },
+    {
+      "path": "config/NoChatReports/NCR-Common.json",
+      "hash": "6a83c8b806b818ae23a1976baa52bfc30436206a"
+    },
+    {
+      "path": "config/NoChatReports/NCR-Encryption.json",
+      "hash": "c39b7586c81b8b8f81b3a6ea72475ba9e987d8a2"
+    },
+    {
+      "path": "config/NoChatReports/NCR-ServerPreferences.json",
+      "hash": "3c04f45c210048b5e722b294dcc0d9f073374160"
+    },
+    {
+      "path": "config/NoChatReports/README.md",
+      "hash": "75d98286a0aa3e180708523c8f582a2d23e590b3"
+    },
+    {
+      "path": "config/notenoughanimations.json",
+      "hash": "a47b02b417ae52eb8b3fc7141d16901e44798155"
+    },
+    {
+      "path": "config/notenoughchest-config.json",
+      "hash": "924f49fe309090ce74a54e08647f6aae316eaccc"
+    },
+    {
+      "path": "config/nucleus/configs.jsonc",
+      "hash": "0bebb609957e85170f1809f5adb216767880d5b5"
+    },
+    {
+      "path": "config/oculus.properties",
+      "hash": "fa64223226f73ca5b63615394b0ae4ebf05b7e14"
+    },
+    {
+      "path": "config/otyacraftengine/client.toml",
+      "hash": "4b186be0f61073dd0402376b7033f6e476d0010d"
+    },
+    {
+      "path": "config/otyacraftengine/client_debug.toml",
+      "hash": "ef2e5912d6315fe6f2e7fe4bdeed68c7cb6f7260"
+    },
+    {
+      "path": "config/overflowingbars-client.toml",
+      "hash": "b949a190c38291b0fe28e1f5ac294e1b26cb665f"
+    },
+    {
+      "path": "config/panorama_screens/settings.json",
+      "hash": "a86eccaffa7692ed004c6c97bef135c875651211"
+    },
+    {
+      "path": "config/panoramica/config.txt",
+      "hash": "4e0219ef7f025da2cdd6e4cbc4e8bb7ac4b59e90"
+    },
+    {
+      "path": "config/patchouli-client.toml",
+      "hash": "e4987ed22204ca092b2d62a5fa1a065fe88fd9b2"
+    },
+    {
+      "path": "config/paxi/datapacks/Create+Immersive+Aircrafts+Datapack+1.19.2+-+1.2.zip",
+      "hash": "ee02460aaf315ab88fb09b012a8a55f586def707"
+    },
+    {
+      "path": "config/paxi/datapack_load_order.json",
+      "hash": "6aff9afed05022c305c8ef2a81a7bb8208144068"
+    },
+    {
+      "path": "config/paxi/resourcepacks/BloodMagic_CN.zip",
+      "hash": "8a949d9a8176dc1b1706ca6db1f7e2f6051e50ee"
+    },
+    {
+      "path": "config/paxi/resourcepacks/Create+Immersive+Aircrafts+Resource+Pack+1.19.2+-+1.2.zip",
+      "hash": "5ca3d759c87678ed0c2ac6c40d11d4c258c8f7cf"
+    },
+    {
+      "path": "config/paxi/resourcepacks/EnhancedToolsArmour.zip",
+      "hash": "ec63d297ba028bc1ca54bf8a0b2f6bdf37a4d310"
+    },
+    {
+      "path": "config/paxi/resourcepacks/SteamRailsUnique.zip",
+      "hash": "480d1f9e678479af2dee3f6ace4305b3a495ac6d"
+    },
+    {
+      "path": "config/paxi/resourcepacks/Updated_Engineering_v1.7.zip",
+      "hash": "cc84bf8e9926d1c6cfcc76e1d1526345ff3e9a2f"
+    },
+    {
+      "path": "config/paxi/resourcepack_load_order.json",
+      "hash": "6aff9afed05022c305c8ef2a81a7bb8208144068"
+    },
+    {
+      "path": "config/pickupnotifier/pickupnotifier-client.toml",
+      "hash": "569f60dba21c392bbdca2a3ca61924c787c6790e"
+    },
+    {
+      "path": "config/pickupnotifier/pickupnotifier-server.toml",
+      "hash": "e8d25f7a076ac0bc3f13ac2f53800a88b9a704a0"
+    },
+    {
+      "path": "config/polymorph-integrations.toml",
+      "hash": "d55bad6049b27267217efb2e12c1f4ac0058f35b"
+    },
+    {
+      "path": "config/pop-client.toml",
+      "hash": "91253e0cdd12931b356c7dbba9a39c1ba811581a"
+    },
+    {
+      "path": "config/questsadditions-client.toml",
+      "hash": "546a742c4d48e864cc621518e8968ff8397d30d6"
+    },
+    {
+      "path": "config/railways-client.toml",
+      "hash": "a533a200f9f51bffe16a127a8972ee9bd52946bc"
+    },
+    {
+      "path": "config/railways-common.toml",
+      "hash": "84c59bd1047708357987030f4b89caf0bb5dc030"
+    },
+    {
+      "path": "config/recipeessentials.json",
+      "hash": "83d2d369e68759ddce013506e5593d924988bb35"
+    },
+    {
+      "path": "config/respawnobelisks.jsonc",
+      "hash": "e059518b9615f84b690fffc3675e4f4e0bb6d37d"
+    },
+    {
+      "path": "config/rrls.toml",
+      "hash": "2abc6eb840d98ec1e2646398c6fd20f8e9ba2fb9"
+    },
+    {
+      "path": "config/salt-client.toml",
+      "hash": "721120e65d216e645e9f70008aec11f9fc6a9ec7"
+    },
+    {
+      "path": "config/salt-common.toml",
+      "hash": "312f824edea84ebf4384a0a3c95fc0ebe57ca771"
+    },
+    {
+      "path": "config/servercore/config.yml",
+      "hash": "821f4b756a9aa6f2eb5a746dbddaaf5c5646536f"
+    },
+    {
+      "path": "config/servercore/optimizations.yml",
+      "hash": "d0c0d5a96f32b856fbd1a8f80dd538b2c87c65ac"
+    },
+    {
+      "path": "config/showcaseitem-common.toml",
+      "hash": "f83df09a158384f90771de7ab888c9e237c5e6a2"
+    },
+    {
+      "path": "config/sidebar_buttons.json",
+      "hash": "3f545ec683be213b684475b39393a01d1faadbcb"
+    },
+    {
+      "path": "config/skinlayers.json",
+      "hash": "7c3bae6247b46bc7f42374b5bbc4206bffdca8d3"
+    },
+    {
+      "path": "config/smoothboot.json",
+      "hash": "c2eb4645b25dbb8cae4a8f53025f61628cc91721"
+    },
+    {
+      "path": "config/snowrealmagic-client.yaml",
+      "hash": "6a36715552ffbeb056ae3efebd17ea57922b5bd8"
+    },
+    {
+      "path": "config/snowrealmagic-common.yaml",
+      "hash": "e68be1635e2f96c7af1ebeafd14a8dd0d63dbb4b"
+    },
+    {
+      "path": "config/snowundertrees-common.toml",
+      "hash": "ff6ff3b43ef1bc6714921f9f7999377c522300ad"
+    },
+    {
+      "path": "config/snowyspirit-client.toml",
+      "hash": "f30d23c219eb01ba28c3dc09219778db6a72c60e"
+    },
+    {
+      "path": "config/snowyspirit-common.toml",
+      "hash": "906425c4ff3f3973fd869861192da4b5bfe6606e"
+    },
+    {
+      "path": "config/sodium-extra-options.json",
+      "hash": "576f19efbe840119751e9a40d7376d36261eb195"
+    },
+    {
+      "path": "config/sodium-extra.properties",
+      "hash": "e90b2514226a0624cf42112b42477f9872598b89"
+    },
+    {
+      "path": "config/solapplepie-client.toml",
+      "hash": "d589198d25e19aa8723fb62037138eef245d4f88"
+    },
+    {
+      "path": "config/sophisticatedbackpacks-common.toml",
+      "hash": "db255b51ba84c67d943936776a68b3ec9e588418"
+    },
+    {
+      "path": "config/sophisticatedcore-client.toml",
+      "hash": "f6f59485a1bf80c76da0a53d3be2bd9c4ee79e61"
+    },
+    {
+      "path": "config/sophisticatedcore-common.toml",
+      "hash": "ee6169ce6ba5c1283d735befb433890c5bea379d"
+    },
+    {
+      "path": "config/sound_physics_remastered/allowed_sounds.properties",
+      "hash": "84857ac9c11d4b4b6ec23e29214ccffa032980f0"
+    },
+    {
+      "path": "config/sound_physics_remastered/occlusion.properties",
+      "hash": "680890756f53071f38110b89f40a9de7e78c7460"
+    },
+    {
+      "path": "config/sound_physics_remastered/reflectivity.properties",
+      "hash": "828a090648c54929b5c6070a2ed35dd06ce1b317"
+    },
+    {
+      "path": "config/sound_physics_remastered/soundphysics.properties",
+      "hash": "79ef805245ec314add3d144ff42c6745320219f7"
+    },
+    {
+      "path": "config/spark/activity.json",
+      "hash": "6160e461a72a8c099421c0c331c44a160d630f50"
+    },
+    {
+      "path": "config/spark/config.json",
+      "hash": "523b5d6c8bfdb11f9b993c1642df22eef46cbf9d"
+    },
+    {
+      "path": "config/spelunkery-client.toml",
+      "hash": "ddd77879a8fda1f57e152171278ceabafab66e1b"
+    },
+    {
+      "path": "config/spelunkery-common.toml",
+      "hash": "214d7210ae045ce476c543f7fc3cac2daf6126aa"
+    },
+    {
+      "path": "config/spyglass_improvements-client.toml",
+      "hash": "ca45ec642ce656d5f39d122d921ce8cf3bdcfd4b"
+    },
+    {
+      "path": "config/starterstructure/schematics/spawn.nbt",
+      "hash": "6cb9557621ba0811d6015a474755f0b466bdbb08"
+    },
+    {
+      "path": "config/starterstructure.json5",
+      "hash": "1fbcd9981d0d4f577c1e93d5d46ca7a7240fb809"
+    },
+    {
+      "path": "config/storagedrawers-client.toml",
+      "hash": "b41b7227e4cfde663209cd8c3a4bc42ee6cad2de"
+    },
+    {
+      "path": "config/storagedrawers-common.toml",
+      "hash": "500a4ba65351c1b88b26fd3675ed7896d95b8a84"
+    },
+    {
+      "path": "config/structureessentials.json",
+      "hash": "b59a153e420c0f5f4e40fcbf1e1210425712578c"
+    },
+    {
+      "path": "config/structure_gel-client.toml",
+      "hash": "12ea00e65c458e63686bfd6799801424d674d8a7"
+    },
+    {
+      "path": "config/structure_gel-common.toml",
+      "hash": "00590014525c67197642cd22e7480528a484f726"
+    },
+    {
+      "path": "config/stylisheffects-client.toml",
+      "hash": "f520196ff39830cc49d327fdb7dfd2efa27eeeed"
+    },
+    {
+      "path": "config/supplementaries-client.toml",
+      "hash": "b94c6b9eacfe5dcdbb9ee8d6cc1c41fcd3a76a8a"
+    },
+    {
+      "path": "config/supplementaries-common.toml",
+      "hash": "fd2d19fc837193293004beff5dab95071a2c2d58"
+    },
+    {
+      "path": "config/terrablender.toml",
+      "hash": "9170b19e75cded7b1d6229f44f1abb43a256d863"
+    },
+    {
+      "path": "config/tia.toml",
+      "hash": "928eb8ddbd73b8ecedcb8131aa56a5de67ac7c8e"
+    },
+    {
+      "path": "config/tide-common.toml",
+      "hash": "70524a7ecf2d0aff76ecdb03b667e4e0371a9cca"
+    },
+    {
+      "path": "config/tips.json",
+      "hash": "64c08ce6b1f7501296882cdc5f8fe9376a2dbc17"
+    },
+    {
+      "path": "config/trashcans-common.toml",
+      "hash": "3c79403b869be94c0a48c6710d75ceca0f2ccc88"
+    },
+    {
+      "path": "config/treechop-client.toml",
+      "hash": "8f2a3ff93e018e49dae1556699c0b01e222cec35"
+    },
+    {
+      "path": "config/treechop-common.toml",
+      "hash": "6474e7148fb086219bd8747ec1cce0c4cf785746"
+    },
+    {
+      "path": "config/trulytreasures.json",
+      "hash": "7eb9a720f8d807490c276f061a120d0a1459846a"
+    },
+    {
+      "path": "config/undergarden-client.toml",
+      "hash": "97ff56d2b7df060904bb3a6c8b0f5d40f0d98f1b"
+    },
+    {
+      "path": "config/undergarden-common.toml",
+      "hash": "52d5a3df0a03d9b0d486551d37cb85035cf27465"
+    },
+    {
+      "path": "config/universalenchants-client.toml",
+      "hash": "804648c90560c2a99f4ebf1d9344103fc4c0b51b"
+    },
+    {
+      "path": "config/universalenchants-common.toml",
+      "hash": "66fe4b7a5424ce03fcb8a1e59e2f6c6238bcf9cd"
+    },
+    {
+      "path": "config/universalenchants-server.toml",
+      "hash": "32c3850a2cacfed87ebaee0672a1e99e63035e68"
+    },
+    {
+      "path": "config/untranslateditems-client.toml",
+      "hash": "09109e3e2144ce469a9f2f3f44f16584ea77601b"
+    },
+    {
+      "path": "config/visuality/config.toml",
+      "hash": "fb6907c0c75f816f0a57e771dc385a869a395f78"
+    },
+    {
+      "path": "config/visuality/particle_emitters/block_ambient.json",
+      "hash": "7d0190829ec2c9e1c8e484f280952976f05d3503"
+    },
+    {
+      "path": "config/visuality/particle_emitters/block_step.json",
+      "hash": "ac1bec2b612aac790350d5b536cca7534d7c2985"
+    },
+    {
+      "path": "config/visuality/particle_emitters/entity_armor.json",
+      "hash": "0026d973e43f21f5490644c2b1888ac075ddb8ac"
+    },
+    {
+      "path": "config/visuality/particle_emitters/entity_hit.json",
+      "hash": "66aa12403fe657603e1cd86e71d64a1e19657f04"
+    },
+    {
+      "path": "config/visualworkbench-client.toml",
+      "hash": "4e377073bec19334af5a8b19eaff8acce0aac91c"
+    },
+    {
+      "path": "config/visual_workbench.json",
+      "hash": "cbb3b16686afa7e081b7b890a0adfce62f35fc2a"
+    },
+    {
+      "path": "config/waterdripsound-client.toml",
+      "hash": "1866253c25f832ea032013f842d94cd4e8a4a323"
+    },
+    {
+      "path": "config/waveycapes.json",
+      "hash": "8ad584f8d837cd849ebe8a98032928a201ef898d"
+    },
+    {
+      "path": "config/world-host-friends.json",
+      "hash": "97d170e1550eee4afc0af065b78cda302a97674c"
+    },
+    {
+      "path": "config/world-host.json5",
+      "hash": "0c1eef11f8fcda9794922c0faa8f2c69cd08ca63"
+    },
+    {
+      "path": "config/worldedit/.archive-unpack/2e1dd752/.unpack_finished",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "config/worldedit/.archive-unpack/2e1dd752/af/strings.json",
+      "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    {
+      "path": "config/worldedit/.archive-unpack/2e1dd752/ar/strings.json",
+      "hash": "eb7aca3e7bf344549878fcb30c7f50e66c9c04cd"
+    },
+    {
+      "path": "config/worldedit/.archive-unpack/2e1dd752/ast/strings.json",
+      "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    {
+      "path": "config/worldedit/.archive-unpack/2e1dd752/az/strings.json",
+      "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    {
+      "path": "config/worldedit/.archive-unpack/2e1dd752/ba/strings.json",
+      "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    {
+      "path": "config/worldedit/.archive-unpack/2e1dd752/be/strings.json",
+      "hash": "c60574caff3a7a6dd8846a49bf80fc25c41f394c"
+    },
+    {
+      "path": "config/worldedit/.archive-unpack/2e1dd752/bg/strings.json",
+      "hash": "c0e34950ff125d70db2890a5bc2bc79286dfa4be"
+    },
+    {
+      "path": "config/worldedit/.archive-unpack/2e1dd752/br-FR/strings.json",
+      "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    {
+      "path": "config/worldedit/.archive-unpack/2e1dd752/brb/strings.json",
+      "hash": "4d12e8bb0d0e00eaa8dc3ee1e417776fdee97643"
+    },
+    {
+      "path": "config/worldedit/.archive-unpack/2e1dd752/bs/strings.json",
+      "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    {
+      "path": "config/worldedit/.archive-unpack/2e1dd752/ca/strings.json",
+      "hash": "a3b7bdfec7a09c4e38f50f198624768e29b0b5d6"
+    },
+    {
+      "path": "config/worldedit/.archive-unpack/2e1dd752/cs/strings.json",
+      "hash": "6b9e4dad49b46fb700b18d0aa75d8461cd3b5c90"
+    },
+    {
+      "path": "config/worldedit/.archive-unpack/2e1dd752/cy/strings.json",
+      "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    {
+      "path": "config/worldedit/.archive-unpack/2e1dd752/da/strings.json",
+      "hash": "0364013945a196df3d24a984753d19f80608f8ef"
+    },
+    {
+      "path": "config/worldedit/.archive-unpack/2e1dd752/de/strings.json",
+      "hash": "02afc3e33312a76a16d423b54bc8ebc0cf682140"
+    },
+    {
+      "path": "config/worldedit/.archive-unpack/2e1dd752/de-AT/strings.json",
+      "hash": "02afc3e33312a76a16d423b54bc8ebc0cf682140"
+    },
+    {
+      "path": "config/worldedit/.archive-unpack/2e1dd752/de-CH/strings.json",
+      "hash": "cc296ccb2a3a69a2bdb33d8f3137b7137619336d"
+    },
+    {
+      "path": "config/worldedit/.archive-unpack/2e1dd752/el/strings.json",
+      "hash": "2322030c3ec0723fe5a5990b11dcda6c9b7d3f3f"
+    },
+    {
+      "path": "config/worldedit/.archive-unpack/2e1dd752/en-AU/strings.json",
+      "hash": "33271dc0b40bc0d7a24b9f61d3131e3ae55a808a"
+    },
+    {
+      "path": "config/worldedit/.archive-unpack/2e1dd752/en-CA/strings.json",
+      "hash": "d76eba76d98123e6d72a0240eab564145a273764"
+    },
+    {
+      "path": "config/worldedit/.archive-unpack/2e1dd752/en-NZ/strings.json",
+      "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    {
+      "path": "config/worldedit/.archive-unpack/2e1dd752/en-PT/strings.json",
+      "hash": "324bb32bb400cfa4815f577c188eba10692a87e0"
+    },
+    {
+      "path": "config/worldedit/.archive-unpack/2e1dd752/en-UD/strings.json",
+      "hash": "dae16763f8f3309d7e52511b8bf387501fc35548"
+    },
+    {
+      "path": "config/worldedit/.archive-unpack/2e1dd752/enp/strings.json",
+      "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    {
+      "path": "config/worldedit/.archive-unpack/2e1dd752/eo/strings.json",
+      "hash": "7c7e9812a5fea5ff44dafbad060d0631ed22ebbe"
+    },
+    {
+      "path": "config/worldedit/.archive-unpack/2e1dd752/es-AR/strings.json",
+      "hash": "bc9065046c72beada67cc91bde3d98770acbe288"
+    },
+    {
+      "path": "config/worldedit/.archive-unpack/2e1dd752/es-CL/strings.json",
+      "hash": "f025a25029b0a7eebf37b2dac8eed5e567869867"
+    },
+    {
+      "path": "config/worldedit/.archive-unpack/2e1dd752/es-ES/strings.json",
+      "hash": "1c5fc3b7478b635def45cc3103a9394fe6d35710"
+    },
+    {
+      "path": "config/worldedit/.archive-unpack/2e1dd752/es-MX/strings.json",
+      "hash": "1c5fc3b7478b635def45cc3103a9394fe6d35710"
+    },
+    {
+      "path": "config/worldedit/.archive-unpack/2e1dd752/es-UY/strings.json",
+      "hash": "1c5fc3b7478b635def45cc3103a9394fe6d35710"
+    },
+    {
+      "path": "config/worldedit/.archive-unpack/2e1dd752/es-VE/strings.json",
+      "hash": "00ce8803a69fae4dd4d65c55223ffc3dd6630fde"
+    },
+    {
+      "path": "config/worldedit/.archive-unpack/2e1dd752/et/strings.json",
+      "hash": "7c9f8fc602d158667a112341b013ea8a0f662e30"
+    },
+    {
+      "path": "config/worldedit/.archive-unpack/2e1dd752/eu/strings.json",
+      "hash": "1e8a373d399d0a356eded4df368e06a6f18e8f63"
+    },
+    {
+      "path": "config/worldedit/.archive-unpack/2e1dd752/fa/strings.json",
+      "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    {
+      "path": "config/worldedit/.archive-unpack/2e1dd752/fi/strings.json",
+      "hash": "a66a02e0ab974728bb02470ceef4fa5a3ba91721"
+    },
+    {
+      "path": "config/worldedit/.archive-unpack/2e1dd752/fil/strings.json",
+      "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    {
+      "path": "config/worldedit/.archive-unpack/2e1dd752/fo/strings.json",
+      "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    {
+      "path": "config/worldedit/.archive-unpack/2e1dd752/fr/strings.json",
+      "hash": "4e6d4f6957d9042ba1075e0f94c0b4ac8828a91d"
+    },
+    {
+      "path": "config/worldedit/.archive-unpack/2e1dd752/fr-CA/strings.json",
+      "hash": "5f9029381123f5822e27d2da308adcd52d15a58c"
+    },
+    {
+      "path": "config/worldedit/.archive-unpack/2e1dd752/fra-DE/strings.json",
+      "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    {
+      "path": "config/worldedit/.archive-unpack/2e1dd752/fy-NL/strings.json",
+      "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    {
+      "path": "config/worldedit/.archive-unpack/2e1dd752/ga-IE/strings.json",
+      "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    {
+      "path": "config/worldedit/.archive-unpack/2e1dd752/gd/strings.json",
+      "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    {
+      "path": "config/worldedit/.archive-unpack/2e1dd752/gl/strings.json",
+      "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    {
+      "path": "config/worldedit/.archive-unpack/2e1dd752/got/strings.json",
+      "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    {
+      "path": "config/worldedit/.archive-unpack/2e1dd752/gv/strings.json",
+      "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    {
+      "path": "config/worldedit/.archive-unpack/2e1dd752/haw/strings.json",
+      "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    {
+      "path": "config/worldedit/.archive-unpack/2e1dd752/he/strings.json",
+      "hash": "bb1f9a33fb26ed2125279687066ce6647e588839"
+    },
+    {
+      "path": "config/worldedit/.archive-unpack/2e1dd752/hi/strings.json",
+      "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    {
+      "path": "config/worldedit/.archive-unpack/2e1dd752/hr/strings.json",
+      "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    {
+      "path": "config/worldedit/.archive-unpack/2e1dd752/hu/strings.json",
+      "hash": "9e67f756bbf76d9bb5971f0ec5a8bada354fcda7"
+    },
+    {
+      "path": "config/worldedit/.archive-unpack/2e1dd752/hy-AM/strings.json",
+      "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    {
+      "path": "config/worldedit/.archive-unpack/2e1dd752/id/strings.json",
+      "hash": "396158aa200c2af801ba15826fa0356abb9f682c"
+    },
+    {
+      "path": "config/worldedit/.archive-unpack/2e1dd752/ido/strings.json",
+      "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    {
+      "path": "config/worldedit/.archive-unpack/2e1dd752/ig/strings.json",
+      "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    {
+      "path": "config/worldedit/.archive-unpack/2e1dd752/is/strings.json",
+      "hash": "8c719af96631d6a6c2d70c8a487c67f617fc0ca9"
+    },
+    {
+      "path": "config/worldedit/.archive-unpack/2e1dd752/it/strings.json",
+      "hash": "2f6a5db7985579763165efa2affb651460bc9eef"
+    },
+    {
+      "path": "config/worldedit/.archive-unpack/2e1dd752/ja/strings.json",
+      "hash": "6616eb900ce6ebb4e5920c0925eeef7e3e37cfce"
+    },
+    {
+      "path": "config/worldedit/.archive-unpack/2e1dd752/jbo/strings.json",
+      "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    {
+      "path": "config/worldedit/.archive-unpack/2e1dd752/ka/strings.json",
+      "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    {
+      "path": "config/worldedit/.archive-unpack/2e1dd752/kab/strings.json",
+      "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    {
+      "path": "config/worldedit/.archive-unpack/2e1dd752/kk/strings.json",
+      "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    {
+      "path": "config/worldedit/.archive-unpack/2e1dd752/kn/strings.json",
+      "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    {
+      "path": "config/worldedit/.archive-unpack/2e1dd752/ko/strings.json",
+      "hash": "e7c8c8054a0da08d45547dec13f082097f4b2626"
+    },
+    {
+      "path": "config/worldedit/.archive-unpack/2e1dd752/ksh/strings.json",
+      "hash": "02afc3e33312a76a16d423b54bc8ebc0cf682140"
+    },
+    {
+      "path": "config/worldedit/.archive-unpack/2e1dd752/kw/strings.json",
+      "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    {
+      "path": "config/worldedit/.archive-unpack/2e1dd752/la-LA/strings.json",
+      "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    {
+      "path": "config/worldedit/.archive-unpack/2e1dd752/lb/strings.json",
+      "hash": "5184eb63dcc1b5280d91902c7285d1a827643960"
+    },
+    {
+      "path": "config/worldedit/.archive-unpack/2e1dd752/li/strings.json",
+      "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    {
+      "path": "config/worldedit/.archive-unpack/2e1dd752/lol/strings.json",
+      "hash": "53a9f018460300fb51ef613e0cec43f536546e34"
+    },
+    {
+      "path": "config/worldedit/.archive-unpack/2e1dd752/lt/strings.json",
+      "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    {
+      "path": "config/worldedit/.archive-unpack/2e1dd752/lv/strings.json",
+      "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    {
+      "path": "config/worldedit/.archive-unpack/2e1dd752/mi/strings.json",
+      "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    {
+      "path": "config/worldedit/.archive-unpack/2e1dd752/mk/strings.json",
+      "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    {
+      "path": "config/worldedit/.archive-unpack/2e1dd752/mn/strings.json",
+      "hash": "5a1347a5588e481dd86ab92dc3ad84f316ff602a"
+    },
+    {
+      "path": "config/worldedit/.archive-unpack/2e1dd752/moh/strings.json",
+      "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    {
+      "path": "config/worldedit/.archive-unpack/2e1dd752/ms/strings.json",
+      "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    {
+      "path": "config/worldedit/.archive-unpack/2e1dd752/mt/strings.json",
+      "hash": "235d227d4aeafb56c808c5257509d38c8c40e2c7"
+    },
+    {
+      "path": "config/worldedit/.archive-unpack/2e1dd752/nds/strings.json",
+      "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    {
+      "path": "config/worldedit/.archive-unpack/2e1dd752/nl/strings.json",
+      "hash": "4d12e8bb0d0e00eaa8dc3ee1e417776fdee97643"
+    },
+    {
+      "path": "config/worldedit/.archive-unpack/2e1dd752/nl-BE/strings.json",
+      "hash": "68f394011931604ae0623fb3fdbb77b300791f10"
+    },
+    {
+      "path": "config/worldedit/.archive-unpack/2e1dd752/nn-NO/strings.json",
+      "hash": "bfd75f722dd1bcbda5b6ba8ace158f391fa7e89e"
+    },
+    {
+      "path": "config/worldedit/.archive-unpack/2e1dd752/no/strings.json",
+      "hash": "bfd75f722dd1bcbda5b6ba8ace158f391fa7e89e"
+    },
+    {
+      "path": "config/worldedit/.archive-unpack/2e1dd752/nuk/strings.json",
+      "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    {
+      "path": "config/worldedit/.archive-unpack/2e1dd752/oc/strings.json",
+      "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    {
+      "path": "config/worldedit/.archive-unpack/2e1dd752/oj/strings.json",
+      "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    {
+      "path": "config/worldedit/.archive-unpack/2e1dd752/pl/strings.json",
+      "hash": "c3eb4e85056f1ecfe6c2fe62dcd8fb6c67bcfa71"
+    },
+    {
+      "path": "config/worldedit/.archive-unpack/2e1dd752/pt-BR/strings.json",
+      "hash": "9ded7fe8c66acc4cd043e1ba18eafd2c75f61fb8"
+    },
+    {
+      "path": "config/worldedit/.archive-unpack/2e1dd752/pt-PT/strings.json",
+      "hash": "088167f7b1d4fec597fe4bab1ce83da896f4115e"
+    },
+    {
+      "path": "config/worldedit/.archive-unpack/2e1dd752/qya-AA/strings.json",
+      "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    {
+      "path": "config/worldedit/.archive-unpack/2e1dd752/ro/strings.json",
+      "hash": "dbf641475bc55db3a776a6ca0088cdf835bc0e35"
+    },
+    {
+      "path": "config/worldedit/.archive-unpack/2e1dd752/ru/strings.json",
+      "hash": "1be8e90bfec09a4d92d78cd496324b57f767f436"
+    },
+    {
+      "path": "config/worldedit/.archive-unpack/2e1dd752/se/strings.json",
+      "hash": "0e89ce1223b6b90c69c809a56441d3a9480eeccb"
+    },
+    {
+      "path": "config/worldedit/.archive-unpack/2e1dd752/sk/strings.json",
+      "hash": "3460136113848963844612776902d6fa4e6343c8"
+    },
+    {
+      "path": "config/worldedit/.archive-unpack/2e1dd752/sl/strings.json",
+      "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    {
+      "path": "config/worldedit/.archive-unpack/2e1dd752/so/strings.json",
+      "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    {
+      "path": "config/worldedit/.archive-unpack/2e1dd752/sq/strings.json",
+      "hash": "08655754f4bf8e9ff1aed11cc550ed72f548ad4c"
+    },
+    {
+      "path": "config/worldedit/.archive-unpack/2e1dd752/sr/strings.json",
+      "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    {
+      "path": "config/worldedit/.archive-unpack/2e1dd752/strings.json",
+      "hash": "792c944c9a71d1ac89669ee6e0b624a31094b1e4"
+    },
+    {
+      "path": "config/worldedit/.archive-unpack/2e1dd752/sv-SE/strings.json",
+      "hash": "1b9d0d7339e86e204314d6d7eb6ae0fb089527b4"
+    },
+    {
+      "path": "config/worldedit/.archive-unpack/2e1dd752/swg/strings.json",
+      "hash": "02afc3e33312a76a16d423b54bc8ebc0cf682140"
+    },
+    {
+      "path": "config/worldedit/.archive-unpack/2e1dd752/szl/strings.json",
+      "hash": "c3eb4e85056f1ecfe6c2fe62dcd8fb6c67bcfa71"
+    },
+    {
+      "path": "config/worldedit/.archive-unpack/2e1dd752/ta/strings.json",
+      "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    {
+      "path": "config/worldedit/.archive-unpack/2e1dd752/th/strings.json",
+      "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    {
+      "path": "config/worldedit/.archive-unpack/2e1dd752/tlh-AA/strings.json",
+      "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    {
+      "path": "config/worldedit/.archive-unpack/2e1dd752/tr/strings.json",
+      "hash": "1154120fc7238ed77b82674268d4ea0b6da4fa0c"
+    },
+    {
+      "path": "config/worldedit/.archive-unpack/2e1dd752/tt-RU/strings.json",
+      "hash": "ff503a4bf90a11bb6ccc2bca6d0b2dd57bf42003"
+    },
+    {
+      "path": "config/worldedit/.archive-unpack/2e1dd752/tzl/strings.json",
+      "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    {
+      "path": "config/worldedit/.archive-unpack/2e1dd752/uk/strings.json",
+      "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    {
+      "path": "config/worldedit/.archive-unpack/2e1dd752/val-ES/strings.json",
+      "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    {
+      "path": "config/worldedit/.archive-unpack/2e1dd752/vec/strings.json",
+      "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    {
+      "path": "config/worldedit/.archive-unpack/2e1dd752/vi/strings.json",
+      "hash": "2069d274a20fd8b178e30f1c5c4489e2e15a9d83"
+    },
+    {
+      "path": "config/worldedit/.archive-unpack/2e1dd752/yi/strings.json",
+      "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    {
+      "path": "config/worldedit/.archive-unpack/2e1dd752/yo/strings.json",
+      "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    {
+      "path": "config/worldedit/.archive-unpack/2e1dd752/zh-CN/strings.json",
+      "hash": "daf2870641ffe834cee67eeec30c458a43c0eada"
+    },
+    {
+      "path": "config/worldedit/.archive-unpack/2e1dd752/zh-TW/strings.json",
+      "hash": "8c8421d8d42a6da81087c5e70fb5e4b55851c0cb"
+    },
+    {
+      "path": "config/worldedit/worldedit.properties",
+      "hash": "c67e7ceb0c70409c085bc8940eb4879d00ca56ed"
+    },
+    {
+      "path": "config/xaerominimap-common.txt",
+      "hash": "dac5a674781602dd824a1d1a7978f16011c9a10c"
+    },
+    {
+      "path": "config/xaerominimap.txt",
+      "hash": "1e40ccad30515240489cef59dd0800a79e16b1da"
+    },
+    {
+      "path": "config/xaerominimap_entities.json",
+      "hash": "e3e2634df12bfaf51db1784415ce27450e517876"
+    },
+    {
+      "path": "config/xaeropatreon.txt",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "config/xaeroworldmap-common.txt",
+      "hash": "e5788254e0808fc880eb9a24fa31670f1a1dc80f"
+    },
+    {
+      "path": "config/xaeroworldmap.txt",
+      "hash": "820c62da17a8ab15072c9420061170e1e1cb9add"
+    },
+    {
+      "path": "config/yungsmenutweaks-forge-1_20_1.toml",
+      "hash": "d13446a67db9a32cf6bc6e51076acc333b6f73b4"
+    },
+    {
+      "path": "defaultconfigs/bucketlib-server.toml",
+      "hash": "103eecb67d07125bc306f99520b5e97075f4b900"
+    },
+    {
+      "path": "defaultconfigs/create-server.toml",
+      "hash": "f682cb44fe8d1d60a7e9f222c630316111fd8b33"
+    },
+    {
+      "path": "defaultconfigs/ftblibrary/ftblibrary-client.snbt",
+      "hash": "991fe2ed7f037250d4de9696cbccb4e6facb4753"
+    },
+    {
+      "path": "defaultconfigs/ftbquests/client-config.snbt",
+      "hash": "22257982f6e6895b2844e42574414ff2e36840c0"
+    },
+    {
+      "path": "defaultconfigs/ftbxmodcompat/ftbxmodcompat.snbt",
+      "hash": "e64ed572532dfad2c3a707964dafffb2b942f138"
+    },
+    {
+      "path": "defaultconfigs/immersiveengineering-server.toml",
+      "hash": "121ed700a6bb3535d07f75ed055bbd448f31f405"
+    },
+    {
+      "path": "defaultconfigs/irons_spellbooks-server.toml",
+      "hash": "da3f87c40b2cbdb094088de6b20ea59fb78ecc7f"
+    },
+    {
+      "path": "defaultconfigs/solapplepie-server.toml",
+      "hash": "a905244163c3a9c52b7fc98fd814f38a4d928226"
+    },
+    {
+      "path": "defaultconfigs/sophisticatedbackpacks-server.toml",
+      "hash": "345aaaa6f258d120822f529338d26859b14c9e3d"
+    },
+    {
+      "path": "defaultconfigs/woodenbucket-server.toml",
+      "hash": "ff7f5b5137c73daebaf49753306f10faee078187"
+    },
+    {
+      "path": "icon.png",
+      "hash": "004889f870a331862d0f0ae849365bd22f46b60c"
+    },
+    {
+      "path": "kubejs/assets/immersiveengineering/lang/zh_cn.json",
+      "hash": "47d4df138404debf46d104e602086d7e639528a3"
+    },
+    {
+      "path": "kubejs/assets/kubejs/lang/en_us.json",
+      "hash": "6cc1a86f8c4f21f7a85c5872561b407c20d3d553"
+    },
+    {
+      "path": "kubejs/assets/kubejs/lang/zh_cn.json",
+      "hash": "0a72b966ff20ae63daaadd9ca2dd088738c41849"
+    },
+    {
+      "path": "kubejs/assets/kubejs/sounds/pluto_nocturnus.ogg",
+      "hash": "8e0338e1386c4e365e9df13a5814c98837965de9"
+    },
+    {
+      "path": "kubejs/assets/kubejs/sounds/quam_admirabile_mundi.ogg",
+      "hash": "836411066cc5834088b0b8e2ef4f708aa165f1b9"
+    },
+    {
+      "path": "kubejs/assets/kubejs/sounds/yc_main_theme.ogg",
+      "hash": "8242c75ed32e65bd5153410a735af1da4eb1ee11"
+    },
+    {
+      "path": "kubejs/assets/kubejs/sounds/yc_main_title.ogg",
+      "hash": "a21cee2b076324bb96d44b3295bce6e63554d28b"
+    },
+    {
+      "path": "kubejs/assets/kubejs/sounds/yggdrasil_original_mix.ogg",
+      "hash": "5ea61f845a4344f3c3f03cddaab91aac33f8e953"
+    },
+    {
+      "path": "kubejs/assets/kubejs/sounds.json",
+      "hash": "c43c6dbb8dfd9ee1a90eff874a50fc15c054a277"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/block/andesite_engineering.png",
+      "hash": "6f86aacb1a915949d5295523c920e69a3edc1174"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/block/bronze_block.png",
+      "hash": "eea531d0e6fbc87ce8b19bf1cd5e587a71fa4a81"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/block/electronic_engineering.png",
+      "hash": "017702bd3634d0d9aab11af9b4057a175590477d"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/block/example_block.png",
+      "hash": "87f5ec8c26493050fc83543af8d33f2d28a98766"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/block/fluid_engineering.png",
+      "hash": "af5ad437ad53894726b41d5f1a538348c26d1d17"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/block/obelisk_base.png",
+      "hash": "2a8747f93b6c74ede84b0895b1b56133602d7e14"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/block/precise_engineering.png",
+      "hash": "e83243ee8d62e2b530b6a75b4d65dbac864bec18"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/bronze/bronze_axe.png",
+      "hash": "eb0aa47ec5a7f37633bc8bcc728cc057e0171d33"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/bronze/bronze_dust.png",
+      "hash": "0a75b1074d16a8949f34f5378868c290a0dfe74a"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/bronze/bronze_hoe.png",
+      "hash": "e23e117d0ac2065ddfb53aa37969c77614247052"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/bronze/bronze_ingot.png",
+      "hash": "bc4005fb2c0a569a1c7e312333e0c4c914598ca1"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/bronze/bronze_nugget.png",
+      "hash": "b878fedeb4d83dfef63ece7f930d23e0f801700a"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/bronze/bronze_pickaxe.png",
+      "hash": "111db5effd84d4747f7ed348ed147f6f90b9139e"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/bronze/bronze_sheet.png",
+      "hash": "3c231e3b02957e377fb5f0500e945f5ab1f559d7"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/bronze/bronze_shovel.png",
+      "hash": "6938a1769dcc5459d5702496221797ec1da2de93"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/bronze/bronze_sword.png",
+      "hash": "701b23b260e4a664f5a01a9aa3e063f646ee0cdf"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/buran.png",
+      "hash": "686504e55d4073e2d01d08f2f586d68f40c728e0"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/disc/music_disc_pluto_nocturnus.png",
+      "hash": "3ef95797b1f0257bf9fd2446a3d8d6a25e743c67"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/disc/music_disc_quam_admirabile_mundi.png",
+      "hash": "027913657c213ef85cbbb4956c7fd7003c02f5f4"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/disc/music_disc_yggdrasil_original_mix.png",
+      "hash": "e16279d17e5ee6d97336050c273e0bf1c921ec6c"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/disc_fragment_yggdrasil.png",
+      "hash": "3e72d1229a41398a569add8540944f3a40856f6c"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/example_item.png",
+      "hash": "d9912cb709ad496b10f19f8b2c66d1e419eb760c"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/gold_silver_mix.png",
+      "hash": "d992fec0d274c4209f6a17a250788373c7c1f6ae"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/incomplete_andesite_engineering.png",
+      "hash": "6f86aacb1a915949d5295523c920e69a3edc1174"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/incomplete_brass_ingot.png",
+      "hash": "bffc77ab121a99ae462e8a0190da6d039f4803cb"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/incomplete_component_electronic_adv.png",
+      "hash": "00d0cec21367cc9599f4281bd4cc7f15778bc265"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/incomplete_durasteel_book.png",
+      "hash": "0ef1e3889d86968367d78cec5b24f41be9fd8fe5"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/incomplete_electronic_engineering.png",
+      "hash": "017702bd3634d0d9aab11af9b4057a175590477d"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/incomplete_fluid_engineering.png",
+      "hash": "af5ad437ad53894726b41d5f1a538348c26d1d17"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/incomplete_heavy_engineering.png",
+      "hash": "903bdf7a2e359b64a3357faa8e6e9d45671731bf"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/incomplete_industrium_book.png",
+      "hash": "b7ff1420e579d6ca69ccd3545b7ef5e054a91097"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/incomplete_light_engineering.png",
+      "hash": "473c9fd883105b59fc23dd9856ce09c0c3ec7ba1"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/incomplete_music_disc_pluto_nocturnus.png",
+      "hash": "c702df9b49cacf7b6d4ee783df3298f45bb3eb5c"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/incomplete_precise_engineering.png",
+      "hash": "e83243ee8d62e2b530b6a75b4d65dbac864bec18"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/incomplete_rs_engineering.png",
+      "hash": "9c48fbfb5debce847987b031a71e46e7bb94a4b4"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/midnight.png",
+      "hash": "99c2b49c2b790d83f49b5259f2ae7ab0395b2b99"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/raw_andesite_alloy.png",
+      "hash": "0d08961c32529c775a4e60269f9c4d8f1679f626"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/tin_dust.png",
+      "hash": "3abbb5e124eeb18cc8f8c62c6889f05a67e2be37"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/zinc_dust.png",
+      "hash": "2980fef740c930a5474e58f2295b3c63a2ba81f1"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/logo_new.png",
+      "hash": "a82c90679db17bb1c80fffed6fb1307e50ac3f11"
+    },
+    {
+      "path": "kubejs/assets/minecraft/sounds.json",
+      "hash": "0a910d2105b0c4e521317bc185a7befd33bc073d"
+    },
+    {
+      "path": "kubejs/assets/tfmg/lang/zh_cn.json",
+      "hash": "1892797c9ff2de681e28561df95f2f36775c68ae"
+    },
+    {
+      "path": "kubejs/client_scripts/example.js",
+      "hash": "dfe0a9197b4b80a3f1235afa6f825857d9ead98a"
+    },
+    {
+      "path": "kubejs/client_scripts/tooltips.js",
+      "hash": "22f137045f14a9f9470d2e1b2913403b2d2f1f42"
+    },
+    {
+      "path": "kubejs/config/client.properties",
+      "hash": "4ef946bc2063a33937f60949d14310eb88b022e4"
+    },
+    {
+      "path": "kubejs/config/common.properties",
+      "hash": "bf1fb29610b18972bc5348d6da279f8d9a00734a"
+    },
+    {
+      "path": "kubejs/config/probejs.json",
+      "hash": "cc09185b89277c6047a62d8400e8b2a75673e9db"
+    },
+    {
+      "path": "kubejs/data/createchromaticreturn/recipes/creative_capacitor.json",
+      "hash": "e675b548fe8b48ba68f3d35c80aa8f28d0821232"
+    },
+    {
+      "path": "kubejs/data/createchromaticreturn/recipes/creative_tank.json",
+      "hash": "3aac8e995d3623cbfb1e04dc44a6fa8fd06fa334"
+    },
+    {
+      "path": "kubejs/data/createchromaticreturn/recipes/motor_recipe.json",
+      "hash": "b5aa65098c05880244c7792c509893e0cf44b4da"
+    },
+    {
+      "path": "kubejs/data/createchromaticreturn/recipes/shadow_essence_recipe.json",
+      "hash": "c7759f6cfbbe2ec9c3d078b6b79a35a12dce5e53"
+    },
+    {
+      "path": "kubejs/data/create_new_age/recipes/cutting/copper_sheet.json",
+      "hash": "dbcc5922db16f4b3b487a7e71c754b364665168f"
+    },
+    {
+      "path": "kubejs/data/create_new_age/recipes/cutting/overcharged_golden_sheet.json",
+      "hash": "c0b2a2ab146cbc8ddadfe9ff0e5e83dc96d6cad8"
+    },
+    {
+      "path": "kubejs/data/create_new_age/recipes/cutting/overcharged_iron_sheet.json",
+      "hash": "c0b2a2ab146cbc8ddadfe9ff0e5e83dc96d6cad8"
+    },
+    {
+      "path": "kubejs/data/create_new_age/recipes/diamond_wire.json",
+      "hash": "c0b2a2ab146cbc8ddadfe9ff0e5e83dc96d6cad8"
+    },
+    {
+      "path": "kubejs/data/create_new_age/recipes/enchanted_golden_apple.json",
+      "hash": "f4633c6fe95ae64ce0e5d44fc7d9cd210bc55a17"
+    },
+    {
+      "path": "kubejs/data/create_new_age/recipes/energising/diamond.json",
+      "hash": "c0b2a2ab146cbc8ddadfe9ff0e5e83dc96d6cad8"
+    },
+    {
+      "path": "kubejs/data/create_new_age/recipes/energising/golden_sheet.json",
+      "hash": "c0b2a2ab146cbc8ddadfe9ff0e5e83dc96d6cad8"
+    },
+    {
+      "path": "kubejs/data/create_new_age/recipes/energising/gold_ingot.json",
+      "hash": "c0b2a2ab146cbc8ddadfe9ff0e5e83dc96d6cad8"
+    },
+    {
+      "path": "kubejs/data/create_new_age/recipes/energising/iron_ingot.json",
+      "hash": "c0b2a2ab146cbc8ddadfe9ff0e5e83dc96d6cad8"
+    },
+    {
+      "path": "kubejs/data/create_new_age/recipes/energising/iron_sheet.json",
+      "hash": "c0b2a2ab146cbc8ddadfe9ff0e5e83dc96d6cad8"
+    },
+    {
+      "path": "kubejs/data/create_new_age/recipes/pressing/overcharged_gold.json",
+      "hash": "c0b2a2ab146cbc8ddadfe9ff0e5e83dc96d6cad8"
+    },
+    {
+      "path": "kubejs/data/create_new_age/recipes/pressing/overcharged_iron.json",
+      "hash": "c0b2a2ab146cbc8ddadfe9ff0e5e83dc96d6cad8"
+    },
+    {
+      "path": "kubejs/data/create_new_age/recipes/reactor/reactor_casing.json",
+      "hash": "74bc1eb85def787aa0366dc7acf8693a7a1acd93"
+    },
+    {
+      "path": "kubejs/data/create_new_age/recipes/reactor/reactor_fuel_acceptor.json",
+      "hash": "816129eb3d7c8b4392747d3c011f0381e4ef6db3"
+    },
+    {
+      "path": "kubejs/data/create_new_age/recipes/reactor/reactor_glass.json",
+      "hash": "2f50437ca2b1d18017a46ab4ba51a98000c8d95f"
+    },
+    {
+      "path": "kubejs/data/create_new_age/recipes/reactor/reactor_heat_vent.json",
+      "hash": "9b21e43751b70865bbff13eee2739d29e8433a13"
+    },
+    {
+      "path": "kubejs/data/create_new_age/recipes/reactor/reactor_rod.json",
+      "hash": "cee16142b7093856ca6933a31653871c6e30c806"
+    },
+    {
+      "path": "kubejs/data/create_new_age/recipes/reinforced_motor.json",
+      "hash": "92066ca942748cb56a1da441b5fb5a2aeb4d5016"
+    },
+    {
+      "path": "kubejs/data/create_new_age/recipes/shaped/advanced_motor.json",
+      "hash": "b99fe9300c8407bfef311badab5740d4dbd37669"
+    },
+    {
+      "path": "kubejs/data/create_new_age/recipes/shaped/advanced_solar_plate.json",
+      "hash": "ae8536c358d5557b322208d199d3d010708a21cf"
+    },
+    {
+      "path": "kubejs/data/create_new_age/recipes/shaped/basic_motor.json",
+      "hash": "8f0331258189f991c2d0bf4a619130e82e0601f9"
+    },
+    {
+      "path": "kubejs/data/create_new_age/recipes/shaped/basic_solar_plate.json",
+      "hash": "c0b2a2ab146cbc8ddadfe9ff0e5e83dc96d6cad8"
+    },
+    {
+      "path": "kubejs/data/create_new_age/recipes/shaped/boiler_heater.json",
+      "hash": "f8294147d3a7785877f95ad5420147032c3770af"
+    },
+    {
+      "path": "kubejs/data/create_new_age/recipes/shaped/carbon_brushes.json",
+      "hash": "a8af3e22f4c85afee3839ead3dcfb440c3eb906c"
+    },
+    {
+      "path": "kubejs/data/create_new_age/recipes/shaped/connector.json",
+      "hash": "a318742df416eb40a44b2133b5e7bab7eba16555"
+    },
+    {
+      "path": "kubejs/data/create_new_age/recipes/shaped/connector_mirrored.json",
+      "hash": "fd5e4ea289548626494ae4c9d0e1a6c0fd9bc4b7"
+    },
+    {
+      "path": "kubejs/data/create_new_age/recipes/shaped/energiser_t2.json",
+      "hash": "c0b2a2ab146cbc8ddadfe9ff0e5e83dc96d6cad8"
+    },
+    {
+      "path": "kubejs/data/create_new_age/recipes/shaped/energiser_t3.json",
+      "hash": "4992f98f6570ec085a076b9ed0deae5fa1a27068"
+    },
+    {
+      "path": "kubejs/data/create_new_age/recipes/shaped/fluxuated_magnetite.json",
+      "hash": "c0b2a2ab146cbc8ddadfe9ff0e5e83dc96d6cad8"
+    },
+    {
+      "path": "kubejs/data/create_new_age/recipes/shaped/generator_coil.json",
+      "hash": "d25840178c0eff757f3afdcaf2b859ab18ddc585"
+    },
+    {
+      "path": "kubejs/data/create_new_age/recipes/shaped/heat_pipe.json",
+      "hash": "421f7bc166eb0636a1c31497ae219ddfd806be4d"
+    },
+    {
+      "path": "kubejs/data/create_new_age/recipes/shaped/heat_pump.json",
+      "hash": "adb39dcaaaf041197d83bba7d00ff840e3c575d8"
+    },
+    {
+      "path": "kubejs/data/create_new_age/recipes/shaped/layered_magnet.json",
+      "hash": "c0b2a2ab146cbc8ddadfe9ff0e5e83dc96d6cad8"
+    },
+    {
+      "path": "kubejs/data/create_new_age/recipes/shaped/netherite_magnet.json",
+      "hash": "b33001661bfa1166472d30a60c6960623f02bbc3"
+    },
+    {
+      "path": "kubejs/data/create_new_age/recipes/shaped/redstone_magnet.json",
+      "hash": "96dbea8993ce7c68ba798f4ad1015c9c09f9ea92"
+    },
+    {
+      "path": "kubejs/data/create_new_age/recipes/shaped/stirling_engine.json",
+      "hash": "33fccc3045a976e0112e8f0171987b81be956d6b"
+    },
+    {
+      "path": "kubejs/data/create_new_age/recipes/shapeless/energiser_t1.json",
+      "hash": "c0b2a2ab146cbc8ddadfe9ff0e5e83dc96d6cad8"
+    },
+    {
+      "path": "kubejs/data/create_new_age/recipes/thorium/nuclear_fuel.json",
+      "hash": "d7a67018fd2a472cc9cfc047d195d995533dce2b"
+    },
+    {
+      "path": "kubejs/data/create_new_age/recipes/thorium/thorium_crushing.json",
+      "hash": "d47e2debebe792f08fd0a214aea8fd199e56456b"
+    },
+    {
+      "path": "kubejs/data/create_new_age/recipes/thorium_multiplication.json",
+      "hash": "c0b2a2ab146cbc8ddadfe9ff0e5e83dc96d6cad8"
+    },
+    {
+      "path": "kubejs/data/create_new_age/worldgen/configured_feature/magnetite.json",
+      "hash": "35cad6d36ab9e9e709c88759bf71d15e1bacc283"
+    },
+    {
+      "path": "kubejs/data/create_new_age/worldgen/configured_feature/ore_thorium.json",
+      "hash": "361e4ab8fcae5cb0b665c23cffee1d4380bb110c"
+    },
+    {
+      "path": "kubejs/data/create_new_age/worldgen/placed_feature/magnetite.json",
+      "hash": "3b480638e6aa7d4fedd0b544b341a447389ad8fa"
+    },
+    {
+      "path": "kubejs/data/create_new_age/worldgen/placed_feature/ore_thorium.json",
+      "hash": "e5de21f4da99d94e988b520267323b0818e092a0"
+    },
+    {
+      "path": "kubejs/data/diet/diet/groups/fruits.json",
+      "hash": "f00ae7136d76cf8579dbb60b5ec6074a1429a925"
+    },
+    {
+      "path": "kubejs/data/diet/diet/groups/grains.json",
+      "hash": "fd865a3c1af3e6b50dd0f475e66291bcfe89c852"
+    },
+    {
+      "path": "kubejs/data/diet/diet/groups/proteins.json",
+      "hash": "0b410c29cc6a109e12450d10574415f2973cd128"
+    },
+    {
+      "path": "kubejs/data/diet/diet/groups/sugars.json",
+      "hash": "d84a301a63479d38f26e73c418a59dbaac2601e8"
+    },
+    {
+      "path": "kubejs/data/diet/diet/groups/vegetables.json",
+      "hash": "0326ef1831e3cb42e2f3357a76c2acdff7bfb3a7"
+    },
+    {
+      "path": "kubejs/data/diet/diet/suites/builtin.json",
+      "hash": "f045a0622c19332a2827f0f6f01df1f87c98bfc4"
+    },
+    {
+      "path": "kubejs/data/diet/tags/items/fruits.json",
+      "hash": "2cd6daf23bed07ef1db10f0c0381ff6ae3404f55"
+    },
+    {
+      "path": "kubejs/data/diet/tags/items/proteins.json",
+      "hash": "ac386d725f9899702489447e18c44e02fd7d70b8"
+    },
+    {
+      "path": "kubejs/data/diet/tags/items/vegetables.json",
+      "hash": "940265d6d50cd6a11fa6ab33aea133dc5cb2bd45"
+    },
+    {
+      "path": "kubejs/data/immersiveengineering/recipes/blueprint/component_iron.json",
+      "hash": "2579888fdb49a86a2e906b33cdd6e95a55cc50d2"
+    },
+    {
+      "path": "kubejs/data/immersiveengineering/recipes/blueprint/component_steel.json",
+      "hash": "46da6d9068d5b72b9903747c269a7fc1d2e2767b"
+    },
+    {
+      "path": "kubejs/data/immersiveengineering/recipes/blueprint/electron_tube.json",
+      "hash": "bbfbe85889cda5b3bc1c0873b2f121a3aafdaf12"
+    },
+    {
+      "path": "kubejs/data/immersiveengineering/recipes/crafting/radiator.json",
+      "hash": "ad894745b2a66cfe0ed3c98becc3036ab41b600f"
+    },
+    {
+      "path": "kubejs/data/immersiveengineering/structures/multiblocks/alloy_smelter.nbt",
+      "hash": "de1ff59520b31f2ffa54611f7e649cd6af9b9c8d"
+    },
+    {
+      "path": "kubejs/data/immersiveengineering/structures/multiblocks/arcfurnace.nbt",
+      "hash": "773ed39b29925059d6dabac5d461a114fc65358e"
+    },
+    {
+      "path": "kubejs/data/immersiveengineering/structures/multiblocks/assembler.nbt",
+      "hash": "aeedf66db7022146f8af7004093bf20994090bc7"
+    },
+    {
+      "path": "kubejs/data/immersiveengineering/structures/multiblocks/auto_workbench.nbt",
+      "hash": "b58b653b22c085f87ea35d28086e0ad8b1cae0b3"
+    },
+    {
+      "path": "kubejs/data/immersiveengineering/structures/multiblocks/blast_furnace.nbt",
+      "hash": "62cfafb57655515eb34863f099caad417942f6a6"
+    },
+    {
+      "path": "kubejs/data/immersiveengineering/structures/multiblocks/bottling_machine.nbt",
+      "hash": "9d8cb1a926b25960e85ff8729ff8b1b4e0cfd5e0"
+    },
+    {
+      "path": "kubejs/data/immersiveengineering/structures/multiblocks/bucket_wheel.nbt",
+      "hash": "6b947dd8972f024ebbe6cca6b38bc93e09365a23"
+    },
+    {
+      "path": "kubejs/data/immersiveengineering/structures/multiblocks/coke_oven.nbt",
+      "hash": "f98345246038633d2870364df0ae44d6904192cc"
+    },
+    {
+      "path": "kubejs/data/immersiveengineering/structures/multiblocks/crusher.nbt",
+      "hash": "467930a009f12a48e3e5580fb5a71582f6033cfb"
+    },
+    {
+      "path": "kubejs/data/immersiveengineering/structures/multiblocks/diesel_generator.nbt",
+      "hash": "0902e026a2965b7bc884e126833a8bd3b90c4722"
+    },
+    {
+      "path": "kubejs/data/immersiveengineering/structures/multiblocks/excavator.nbt",
+      "hash": "068422ca188e4e777ad5bf41ebe3b1b113982b7b"
+    },
+    {
+      "path": "kubejs/data/immersiveengineering/structures/multiblocks/excavator_full.nbt",
+      "hash": "c626234bbe850c2e18118e553eac3d7a294f42c9"
+    },
+    {
+      "path": "kubejs/data/immersiveengineering/structures/multiblocks/fermenter.nbt",
+      "hash": "4d3de2749e8f4081666ba20d879c1d75a1101c48"
+    },
+    {
+      "path": "kubejs/data/immersiveengineering/structures/multiblocks/improved_blast_furnace.nbt",
+      "hash": "78f80512898b4e3b96ac948a26ec67c2aca1a0a8"
+    },
+    {
+      "path": "kubejs/data/immersiveengineering/structures/multiblocks/lightning_rod.nbt",
+      "hash": "571d3e40e6a2ad83055b0da666a4cc404f2a49cb"
+    },
+    {
+      "path": "kubejs/data/immersiveengineering/structures/multiblocks/metal_press.nbt",
+      "hash": "5ea2b4ab4eb96f573be856ab1c2f14128732a7af"
+    },
+    {
+      "path": "kubejs/data/immersiveengineering/structures/multiblocks/mixer.nbt",
+      "hash": "b0e705f6fc1a9e664715d1d4463a262818ceb857"
+    },
+    {
+      "path": "kubejs/data/immersiveengineering/structures/multiblocks/refinery.nbt",
+      "hash": "df966d3adee165e153b55d355f3d423e76ff9b8b"
+    },
+    {
+      "path": "kubejs/data/immersiveengineering/structures/multiblocks/sawmill.nbt",
+      "hash": "7bb0658c9eb87ea8f9c288b2a703811250555c5c"
+    },
+    {
+      "path": "kubejs/data/immersiveengineering/structures/multiblocks/sheetmetal_tank.nbt",
+      "hash": "09da296fa61a438b4754e70f6929ae61dc429d02"
+    },
+    {
+      "path": "kubejs/data/immersiveengineering/structures/multiblocks/silo.nbt",
+      "hash": "1b34a86dced9d0e596f6bc16c772a36271972282"
+    },
+    {
+      "path": "kubejs/data/immersiveengineering/structures/multiblocks/squeezer.nbt",
+      "hash": "f3da1f4dbaafd5964cb6b48be6aa72fa359807db"
+    },
+    {
+      "path": "kubejs/data/minecraft/worldgen/noise_settings/overworld.json",
+      "hash": "76eecb0bda299341275a25bc0e65b086094f841f"
+    },
+    {
+      "path": "kubejs/data/path_of_truth/structures/spawnhouse.nbt",
+      "hash": "58bc8a8c6f775bc171ecb8789393d8a6aaddaf56"
+    },
+    {
+      "path": "kubejs/data/path_of_truth/structures/spawnhouse90.nbt",
+      "hash": "977a77bec907b24b35cdfd92170567272f9ce755"
+    },
+    {
+      "path": "kubejs/data/tide/loot_tables/gameplay/fishing/crates/end/lava.json",
+      "hash": "ffcb1d597ed2670c9d5a3b0934512474b4029380"
+    },
+    {
+      "path": "kubejs/data/tide/loot_tables/gameplay/fishing/crates/end/water.json",
+      "hash": "5733fcc03d668c799fbf765886e5ad2475ec8022"
+    },
+    {
+      "path": "kubejs/data/tide/loot_tables/gameplay/fishing/crates/nether/lava.json",
+      "hash": "3b5f873db82cbee3f477f267990510cc3f6be024"
+    },
+    {
+      "path": "kubejs/data/tide/loot_tables/gameplay/fishing/crates/overworld/lava_deep.json",
+      "hash": "40dfa60fc1c8196c3d29f675b6ac44d0724f39d5"
+    },
+    {
+      "path": "kubejs/data/tide/loot_tables/gameplay/fishing/crates/overworld/lava_surface.json",
+      "hash": "c21331dcbe2dd8f80f434da450e73e39bb5b37b5"
+    },
+    {
+      "path": "kubejs/data/tide/loot_tables/gameplay/fishing/crates/overworld/lava_underground.json",
+      "hash": "9fe31549a646b5644e1dcc111d4c5da2575cfc29"
+    },
+    {
+      "path": "kubejs/data/tide/loot_tables/gameplay/fishing/crates/overworld/water_deep.json",
+      "hash": "932dea52ffab97997e9dbbc6053b8cb9e981ecee"
+    },
+    {
+      "path": "kubejs/data/tide/loot_tables/gameplay/fishing/crates/overworld/water_ocean.json",
+      "hash": "99d81b3516ccb03a15908bc9503928c432cb74a5"
+    },
+    {
+      "path": "kubejs/data/tide/loot_tables/gameplay/fishing/crates/overworld/water_river.json",
+      "hash": "1a026e40177e8d51b8b01c05a3558aa3d0aed0e4"
+    },
+    {
+      "path": "kubejs/data/tide/loot_tables/gameplay/fishing/crates/overworld/water_underground.json",
+      "hash": "a332985bfedc203977c120ec5e1492737bbaf2bb"
+    },
+    {
+      "path": "kubejs/jsconfig.json",
+      "hash": "b0dc9381ebe3f52d7358ffefdcfdb458374a2349"
+    },
+    {
+      "path": "kubejs/README.txt",
+      "hash": "3e56c097cd0c5be61b767a9a9ae73ae083d2eca9"
+    },
+    {
+      "path": "kubejs/server_scripts/aircraft.js",
+      "hash": "bd2101d94a79dce12389fc8822dca2487d0ae8ae"
+    },
+    {
+      "path": "kubejs/server_scripts/andesite_alloy.js",
+      "hash": "216aa2f5c47f6fa6e8c4e58b884c690a36b01d71"
+    },
+    {
+      "path": "kubejs/server_scripts/bloodmagic.js",
+      "hash": "e3b7fd8fe62328b9acbd4513b3fa2ab53e16a7b4"
+    },
+    {
+      "path": "kubejs/server_scripts/botania.js",
+      "hash": "ecb5b5d603e9cafb4c5f72b4bb050fc094d30613"
+    },
+    {
+      "path": "kubejs/server_scripts/casing.js",
+      "hash": "b53690d9b47289313d0e9463a28cd7e978aedf44"
+    },
+    {
+      "path": "kubejs/server_scripts/crates_felt_blu.js",
+      "hash": "ea15a1b204cecf8b909a976fdb3aae2fafff02c4"
+    },
+    {
+      "path": "kubejs/server_scripts/electronic.js",
+      "hash": "f4ea7a3c28e9eced8fc7982dc3383b18f21fab37"
+    },
+    {
+      "path": "kubejs/server_scripts/immersive_engineering.js",
+      "hash": "c50b340d92f05d6fb28fd3a0d353ea9e447d96a5"
+    },
+    {
+      "path": "kubejs/server_scripts/ironspellbook.js",
+      "hash": "e66be3a419e31f5b301c91eda410e75aa5f20d1a"
+    },
+    {
+      "path": "kubejs/server_scripts/loot_table.js",
+      "hash": "e5adc79e4f211889141ddaadd0b557f2d4717fb0"
+    },
+    {
+      "path": "kubejs/server_scripts/metal.js",
+      "hash": "3ee5e95915e8f4224fbfa76886cb1c3753cfbe83"
+    },
+    {
+      "path": "kubejs/server_scripts/music_disc.js",
+      "hash": "e74ec665ad895b9b953ef60aa2633910ba28bbad"
+    },
+    {
+      "path": "kubejs/server_scripts/random_spawn.js",
+      "hash": "bc36d7c2b51477db2f42fa1d10e85e9c2fce3fe2"
+    },
+    {
+      "path": "kubejs/server_scripts/real_metal.js",
+      "hash": "309e66817e10120488fe0116dbdda427303b7586"
+    },
+    {
+      "path": "kubejs/server_scripts/sol.js",
+      "hash": "5acff05b2e62ace105cd72874ca09ce603e8cb29"
+    },
+    {
+      "path": "kubejs/server_scripts/steel.js",
+      "hash": "ed71298b9673fa982a1e08b026c5be7fa19579c1"
+    },
+    {
+      "path": "kubejs/server_scripts/tag.js",
+      "hash": "222e3883e46d8cc8863cce62afe7f6c4cd6ff804"
+    },
+    {
+      "path": "kubejs/server_scripts/tech_endgame.js",
+      "hash": "1a72f23a2c91028a0b424045818d6c1210bb108f"
+    },
+    {
+      "path": "kubejs/server_scripts/template.js",
+      "hash": "4a900fd5a7568b80f5b976401438f0954a53e50f"
+    },
+    {
+      "path": "kubejs/startup_scripts/engineering_blocks.js",
+      "hash": "a8487212d588497bd4e05b4ccf6dfa013c40d330"
+    },
+    {
+      "path": "kubejs/startup_scripts/example.js",
+      "hash": "bbeca4224e5e4dd007400d47b0f1e6618e8c68ec"
+    },
+    {
+      "path": "kubejs/startup_scripts/finale.js",
+      "hash": "278f0e5d17bf75e6911b1b3b8c0184e3d4f75317"
+    },
+    {
+      "path": "kubejs/startup_scripts/global.js",
+      "hash": "e9a2d0e93af1408d48498b3ae68c9151cf9b20b4"
+    },
+    {
+      "path": "kubejs/startup_scripts/metal.js",
+      "hash": "43a3cfb0646d312f76aae5ff0ee981c14ffb3690"
+    },
+    {
+      "path": "kubejs/startup_scripts/music_disc.js",
+      "hash": "6e37981e806517bb8090f8a3c78221f85bf96b15"
+    },
+    {
+      "path": "kubejs/startup_scripts/tier.js",
+      "hash": "e3e08ae344f07a7b29272f6567037b3af31a7a3b"
+    },
+    {
+      "path": "kubejs/startup_scripts/TOP_SECRET.js",
+      "hash": "dfaa70a61feee950c108aba04736f28122673b81"
+    },
+    {
+      "path": "LICENSE",
+      "hash": "925a817b54844f1192586c8de8180efaf75f9ec6"
+    },
+    {
+      "path": "mods/0Pack2Reload-Forge-1.20.1-1.0.1.jar",
+      "hash": "5d57174a0af5248c2d683a47e95d2935a7bcdeae"
+    },
+    {
+      "path": "mods/0World2Create-Universal-1.19-1.20.X-1.0.0.jar",
+      "hash": "35cc436e1155ee1ba23e24cd03eca8d92659a1e2"
+    },
+    {
+      "path": "mods/AdvancedBackups-forge-1.20-3.5.2.jar",
+      "hash": "3f62c5eec1dec3b6d702c4b7dc09b27bccae059f"
+    },
+    {
+      "path": "mods/alexsdelight-1.5.jar",
+      "hash": "ef7049ba6f16df22c8d98dd4dad2d9dc2aa6b6ba"
+    },
+    {
+      "path": "mods/alexsmobs-1.22.8.jar",
+      "hash": "1bf92f4c70a4e01af077600d5543a63812e4d815"
+    },
+    {
+      "path": "mods/alexsmobsinteraction-2.3.jar",
+      "hash": "7e890e8bfbd72c4a0eaa49db3b54e3ca407a7381"
+    },
+    {
+      "path": "mods/almostunified-forge-1.20.1-0.9.3.jar",
+      "hash": "e03d5bcc2f8de175d8a790464c2e4e337677463c"
+    },
+    {
+      "path": "mods/alternate_current-mc1.20-1.7.0.jar",
+      "hash": "02def44a2c416459ee5daecbe1caa6d78571e205"
+    },
+    {
+      "path": "mods/AmbientEnvironment-forge-1.20.1-11.0.0.1.jar",
+      "hash": "03c839b24e5a19f8225400be354f8ffd9572e47f"
+    },
+    {
+      "path": "mods/AmbientSounds_FORGE_v5.3.9_mc1.20.1.jar",
+      "hash": "58d45bac0f411c3cf4771915f3bf13adb22c1c5b"
+    },
+    {
+      "path": "mods/amendments-1.20-1.1.29.jar",
+      "hash": "70971ecdf9b6409d3e376509decd7c9e8853b2fb"
+    },
+    {
+      "path": "mods/appleskin-forge-mc1.20.1-2.5.1.jar",
+      "hash": "81919356f84eab14258db98924b66c3c38e372b1"
+    },
+    {
+      "path": "mods/architectury-9.2.14-forge.jar",
+      "hash": "a52918a500ff421180a1cbd1a0cabee712134ec4"
+    },
+    {
+      "path": "mods/artifacts-forge-9.5.4.jar",
+      "hash": "9243c35a7d730e8b91b0df1326ec6e332997c708"
+    },
+    {
+      "path": "mods/AttributeFix-Forge-1.20.1-21.0.4.jar",
+      "hash": "6eb69343eb21d38f95d1b1d00e6bc777bdb336fa"
+    },
+    {
+      "path": "mods/balm-forge-1.20.1-7.2.2.jar",
+      "hash": "637e8a504b6c577b90325778823240ec5dbcc0fe"
+    },
+    {
+      "path": "mods/beautify-2.0.2.jar",
+      "hash": "497ab2ebccbf89f15845428cf0e26ca5d9c4ce76"
+    },
+    {
+      "path": "mods/bedsdontexplode-1.20.x-1.0.jar",
+      "hash": "55279e22f9865e156532aca7fab41f205b65ca7c"
+    },
+    {
+      "path": "mods/bedspreads-forge-6.2.0+1.20.1.jar",
+      "hash": "dd231d7a0bc85a690460cf2d03fd69516c4358cf"
+    },
+    {
+      "path": "mods/bellsandwhistles-0.4.3-1.20.x.jar",
+      "hash": "7cb1e1dc365c43f08ee7616f1505759e547b11be"
+    },
+    {
+      "path": "mods/bendy-lib-forge-4.0.0.jar",
+      "hash": "d1e77cc4534cecc753a7d2ba4e84dec412a55025"
+    },
+    {
+      "path": "mods/betterarcheology-1.1.9-1.20.1.jar",
+      "hash": "5b330ea99ca856a51e319e5b65a539e3eebfef54"
+    },
+    {
+      "path": "mods/betterchunkloading-1.20.1-4.2.jar",
+      "hash": "885a1c6e7d85450b630fa2bdd9243ba3c7d0c59c"
+    },
+    {
+      "path": "mods/BetterCompatibilityChecker-forge-4.0.8+mc1.20.1.jar",
+      "hash": "c5407cfd0b38d8db6d6f1c0088397f4c5616c7ae"
+    },
+    {
+      "path": "mods/BetterPingDisplay-1.20.1-1.1.jar",
+      "hash": "6347a5bff9405c59ec7d428e5e24115f5b17a90b"
+    },
+    {
+      "path": "mods/BiomesOPlenty-1.20.1-18.0.0.598.jar",
+      "hash": "c10ccda2a31e7ea9dbcb1db9688ee3d66bee25c8"
+    },
+    {
+      "path": "mods/biomespawnpoint-1.20.1-2.2.jar",
+      "hash": "1d0e981467efca0793fabbbd231f5f5e41bc5ebe"
+    },
+    {
+      "path": "mods/bloodmagic-1.20.1-3.3.3-45.jar",
+      "hash": "ec15dfd15a8b9f3ebb05038038f92c79ff5ceb02"
+    },
+    {
+      "path": "mods/blueprint-1.20.1-7.1.0.jar",
+      "hash": "5ff3b2c8ff096d6481ed252f0371aeb60b460f27"
+    },
+    {
+      "path": "mods/blue_skies-1.20.1-1.3.31.jar",
+      "hash": "9d86230565f9262e845da2065f138e470eaed44c"
+    },
+    {
+      "path": "mods/BOMD-Forge-1.20.1-1.1.2.jar",
+      "hash": "2caa8739ed9702c5ad87b6c5436432f8be755217"
+    },
+    {
+      "path": "mods/Bookshelf-Forge-1.20.1-20.1.10.jar",
+      "hash": "6f9ac2d30eb64781ddd47ddf0b2ea84c32501e03"
+    },
+    {
+      "path": "mods/Botania-1.20.1-444-FORGE.jar",
+      "hash": "283aec350fc19bb83c9cc000fc4e0c96252d7e71"
+    },
+    {
+      "path": "mods/botarium-forge-1.20.1-2.3.3.jar",
+      "hash": "8a4b7f0d6e569370a73402eeda57418f456968d8"
+    },
+    {
+      "path": "mods/bucketlib-1.20.1-2.3.4.0.jar",
+      "hash": "5da2e9e785cf5b2b9a0158a93ad93e9d02798f79"
+    },
+    {
+      "path": "mods/caelus-forge-3.2.0+1.20.1.jar",
+      "hash": "fa834f140bf7dce7b67c29b46cb531f4309d3209"
+    },
+    {
+      "path": "mods/canary-mc1.20.1-0.3.3.jar",
+      "hash": "898abd9e337ef1c677ce93f5589497a09c7e9850"
+    },
+    {
+      "path": "mods/catalogue-forge-1.20.1-1.8.0.jar",
+      "hash": "b8cc73db430fa6015671492d4332a65a8c2f5cae"
+    },
+    {
+      "path": "mods/caves__canyons-1.2.jar",
+      "hash": "7d0d865e57181a9fb31786c1ef98a8d1fa7b3633"
+    },
+    {
+      "path": "mods/CerbonsAPI-Forge-1.20.1-1.1.0.jar",
+      "hash": "83cccb66e679d72345a5194e4ca520f647bc97e6"
+    },
+    {
+      "path": "mods/chat_heads-0.12.0-forge-1.20.jar",
+      "hash": "9f576ada49992f2d7eebc63ba4319d96a62de4ba"
+    },
+    {
+      "path": "mods/ChickenNerf-Reforged+1.20.1-1.0.0.jar",
+      "hash": "d5f66f200dbc8f478fa6fa003dc1a751c79f445b"
+    },
+    {
+      "path": "mods/Chimes-v2.0.1-1.20.1.jar",
+      "hash": "439e82c2e4f2f159996dc158915f20536cd600a9"
+    },
+    {
+      "path": "mods/chunksending-1.20.1-2.8.jar",
+      "hash": "befdcf1c0177c8dd97d68ebb3c5c5581065caefe"
+    },
+    {
+      "path": "mods/Chunky-1.3.146.jar",
+      "hash": "0b782d12b4ac3b03a94c28f32e9b2d5587d1dd50"
+    },
+    {
+      "path": "mods/citadel-2.5.4-1.20.1.jar",
+      "hash": "e7f209ae09cf818ecf98698482b82a1cbe0fe058"
+    },
+    {
+      "path": "mods/cleanview-1.20.1-v1.jar",
+      "hash": "77dc8aa112b1610a5c127bb91aeaca52e82a84ef"
+    },
+    {
+      "path": "mods/clean_tooltips-1.0-forge-1.20.1.jar",
+      "hash": "b3b890ac139de0750a3bd84e091e212013f23667"
+    },
+    {
+      "path": "mods/cloth-config-11.1.118-forge.jar",
+      "hash": "c46ca3fba95691873a765f4e79750c615f33e446"
+    },
+    {
+      "path": "mods/Clumps-forge-1.20.1-12.0.0.4.jar",
+      "hash": "97cc669f68dbe812cb77cc3631339334fc28b877"
+    },
+    {
+      "path": "mods/ColdSweat-2.2.5.1.jar",
+      "hash": "f9a536becb79c9c7f4582f1cc26cdda6de6b286e"
+    },
+    {
+      "path": "mods/collective-1.20.1-7.57.jar",
+      "hash": "1776aee86fa94d7501e68d9ed0509273f41c85d5"
+    },
+    {
+      "path": "mods/CombatNouveau-v8.0.5-1.20.1-Forge.jar",
+      "hash": "8ccd73ee2dbb65b96851b77dcfcbda484123b72b"
+    },
+    {
+      "path": "mods/comforts-forge-6.3.5+1.20.1.jar",
+      "hash": "e119443dcbd6c9fd07e922ceb6f070d28de7aef7"
+    },
+    {
+      "path": "mods/configured-forge-1.20.1-2.2.3.jar",
+      "hash": "065c2d287a52f52fc8d33d780192325ee6f4b6ae"
+    },
+    {
+      "path": "mods/Continents_1.20.4_v1.1.4.jar",
+      "hash": "ac067d62ccdb97895305d11e03adabfe4172bfaa"
+    },
+    {
+      "path": "mods/Controlling-forge-1.20.1-12.0.2.jar",
+      "hash": "f6d3cdd3ec68c5590cf5b2e89c38dbf031824bfd"
+    },
+    {
+      "path": "mods/Copycats-forge.1.20.1-1.2.6.jar",
+      "hash": "533857747aca191efc12daf16d40ef0dd83f73fd"
+    },
+    {
+      "path": "mods/corpse-forge-1.20.1-1.0.12.jar",
+      "hash": "6da44b292908851cd8d3c522d5e00c320942830f"
+    },
+    {
+      "path": "mods/cosmeticarmorreworked-1.20.1-v1a.jar",
+      "hash": "afd9fa3fe95e8c086e8d439df403ed1e5ea5cbea"
+    },
+    {
+      "path": "mods/cratedelight-2024.05.05-1.20.1-forge.jar",
+      "hash": "5df5f34bc5dd0a2373c06a4653d9c4d492bf5537"
+    },
+    {
+      "path": "mods/create-1.20.1-0.5.1.f.jar",
+      "hash": "3fee3c26ebbfdfd59e1371ab73ba1f61b44ef6d0"
+    },
+    {
+      "path": "mods/create-confectionery1.20.1_v1.1.0.jar",
+      "hash": "75b39587e643a2af31e5d0db822a94aaa5d13f08"
+    },
+    {
+      "path": "mods/create-new-age-forge-1.20.1-1.1.2.jar",
+      "hash": "92fcbc49d41a4d1b2038b469154a4c36e3934e36"
+    },
+    {
+      "path": "mods/create-train-perspective-0.3.0.jar",
+      "hash": "eb1944c8426c7b817037261bff8a62f6928f0f24"
+    },
+    {
+      "path": "mods/createchromaticreturn-1.5.2.jar",
+      "hash": "49a0f7f8843a51b535e10214cff2f8e32c7321c7"
+    },
+    {
+      "path": "mods/createdeco-2.0.2-1.20.1-forge.jar",
+      "hash": "606650f31ca0a5eb64d4bbb8fbaecf357a3bdb43"
+    },
+    {
+      "path": "mods/createliquidfuel-2.1.1-1.20.1.jar",
+      "hash": "d216cf52735f8e4d3594943139599f6b0b20b8cf"
+    },
+    {
+      "path": "mods/createpickywheels-forge-1.20.1-0.5.1.f-c.jar",
+      "hash": "21ed7cbd64609d38767e8d5209ffe50f0bfde18b"
+    },
+    {
+      "path": "mods/createsongsandspeakers-forge-mc1.20-0.5 - Fork of 3.22.0-alpha.3.jar",
+      "hash": "ca77e31c8345728edf849d5f711a0e99c4589ba7"
+    },
+    {
+      "path": "mods/create_blue_skies_compat-forge-1.20.1-1.0.1.jar",
+      "hash": "6b91aad6906b9850e6d9cbab5bfa1cc28966aa64"
+    },
+    {
+      "path": "mods/create_central_kitchen-1.20.1-for-create-0.5.1.f-1.3.12.jar",
+      "hash": "92f89bdf6868c2f2b44e8a7acdc0da4be108ba1b"
+    },
+    {
+      "path": "mods/create_connected-0.7.4-mc1.20.1-all.jar",
+      "hash": "78f76399cbe58ae149fbd3a61fe80ca9278b7d4c"
+    },
+    {
+      "path": "mods/create_enchantment_industry-1.20.1-for-create-0.5.1.f-1.2.9.d.jar",
+      "hash": "eec891067ec8c72fdaeb97bece103eed5e10e719"
+    },
+    {
+      "path": "mods/create_tab_fix-1.0.0+forge-1.20.1.jar",
+      "hash": "ecbde49afc5e9ce23c8d2794848864cba6c987df"
+    },
+    {
+      "path": "mods/CreativeCore_FORGE_v2.11.28_mc1.20.1.jar",
+      "hash": "4b78ee9360931a001c6cb70973ee18e7fb1defc6"
+    },
+    {
+      "path": "mods/CullLessLeaves-Reforged-1.20.1-1.0.5.jar",
+      "hash": "71b1603071461e036a3ba2aaeeb52cc10fa3d348"
+    },
+    {
+      "path": "mods/cupboard-1.20.1-2.6.jar",
+      "hash": "9371c91104799702e31b482f6790a2e39c63505f"
+    },
+    {
+      "path": "mods/curios-forge-5.9.0+1.20.1.jar",
+      "hash": "355115f0c03041d82ca974b99cda8b5478bf515a"
+    },
+    {
+      "path": "mods/CutThrough-v8.0.2-1.20.1-Forge.jar",
+      "hash": "47b151e9a38fa6052671cc74bb21ffd7a8494d41"
+    },
+    {
+      "path": "mods/DeathCounter-1.20.1-Forge-1.3.0.jar",
+      "hash": "2cd38c44678f6c5083913b2e5cf950fc992e9ed4"
+    },
+    {
+      "path": "mods/decorative_blocks-forge-1.20.1-4.1.3.jar",
+      "hash": "10263d3e99807662ff065edce0e470fe62e84b30"
+    },
+    {
+      "path": "mods/defaultoptions-forge-1.20-18.0.1.jar",
+      "hash": "d19f874852def4ef73b32caf3f218e6423d51677"
+    },
+    {
+      "path": "mods/deuf-1.20.1-1.3.jar",
+      "hash": "4f96406c6257d46f579a97223e30dd5e93359cfc"
+    },
+    {
+      "path": "mods/diet-forge-2.1.1+1.20.1.jar",
+      "hash": "c5f5d5980803259931dfa62236e888fb08ecf70a"
+    },
+    {
+      "path": "mods/doubledoors-1.20.1-5.7.jar",
+      "hash": "55f40cd02a532da700170ff026045f84e1e977bd"
+    },
+    {
+      "path": "mods/DrawersTooltip-1.20.1-forge-8.0.0.jar",
+      "hash": "1af87c87a1f9810eedd06515d41015e97ec862d4"
+    },
+    {
+      "path": "mods/drippyloadingscreen_forge_3.0.1_MC_1.20.1.jar",
+      "hash": "3d19cbea53c232fdbc9ee667ecc2baf64d8e43b9"
+    },
+    {
+      "path": "mods/DripSounds-1.19.4-0.3.2.jar",
+      "hash": "e91743f0e4a1b8d2e1b795f3ccd4bd4190f5d4c3"
+    },
+    {
+      "path": "mods/EasyAnvils-v8.0.2-1.20.1-Forge.jar",
+      "hash": "d44a8b549b27713a92d59148729bf374ff3e25f0"
+    },
+    {
+      "path": "mods/embeddium-0.3.18+mc1.20.1-all.jar",
+      "hash": "2319894c1730d1d5f3fcec810989af3a8d868e9a"
+    },
+    {
+      "path": "mods/EnchantmentDescriptions-Forge-1.20.1-17.0.14.jar",
+      "hash": "c588f932dcb7796ad6d334abd43777e718957058"
+    },
+    {
+      "path": "mods/endersdelight-1.20.1-1.0.3.jar",
+      "hash": "cd55aa2b34b27fe89ca5eb4a841d187d25afea7d"
+    },
+    {
+      "path": "mods/Engineers Delight 1.20.1 B.1.3.jar",
+      "hash": "999a707f743da0c3898ebdb525254b457057398d"
+    },
+    {
+      "path": "mods/everycomp-1.20-2.6.55.jar",
+      "hash": "dfb56c2a8342a24605080a492487474218d54259"
+    },
+    {
+      "path": "mods/Fallingleaves-1.20.1-2.1.0.jar",
+      "hash": "7cae5ae0f3ff3af230ecb8557fe0af6ca59f3ef5"
+    },
+    {
+      "path": "mods/fancymenu_forge_3.2.3_MC_1.20.1.jar",
+      "hash": "15512ce60a2aba724edc28f81c46b2fdeb2b94f3"
+    },
+    {
+      "path": "mods/FarmersDelight-1.20.1-1.2.4.jar",
+      "hash": "71daa55fd88b6f181c51ec6892600415df591f64"
+    },
+    {
+      "path": "mods/farsight-1.20.1-3.6.jar",
+      "hash": "b58119fea950fffec3350d7f5792558a3339046b"
+    },
+    {
+      "path": "mods/ferritecore-6.0.1-forge.jar",
+      "hash": "417fb6ce8f52abf40bd9d0390371790f9576f8ba"
+    },
+    {
+      "path": "mods/fishnostuck-mc1.20.1-v1.0.3-forge.jar",
+      "hash": "cb5aa9e27ff3bcd6b6bb41501968c26385816a05"
+    },
+    {
+      "path": "mods/foodeffecttooltips-1.0.1+forge-1.20.jar.jar",
+      "hash": "f894a91b230a60e086f7ff415b531a44c8445997"
+    },
+    {
+      "path": "mods/ForgeConfigScreens-v8.0.2-1.20.1-Forge.jar",
+      "hash": "e727fcba7efe04bc173211ba5cdf49eea768a9a3"
+    },
+    {
+      "path": "mods/FpsReducer2-forge-1.20-2.5.jar",
+      "hash": "d7d5af20faa2bd7012aa2d34b5804324aa273092"
+    },
+    {
+      "path": "mods/ftb-library-forge-2001.1.5.jar",
+      "hash": "95d6acc600216ca750055d8c494efc3d0d5cfb93"
+    },
+    {
+      "path": "mods/ftb-quests-forge-2001.3.5.jar",
+      "hash": "63fd30c0fb2d7a3e760f4e9a554916df87811bfe"
+    },
+    {
+      "path": "mods/ftb-teams-forge-2001.2.0.jar",
+      "hash": "fe8be7161838d2378bd9facfe6399c6a4f496810"
+    },
+    {
+      "path": "mods/ftb-xmod-compat-forge-2.1.1.jar",
+      "hash": "55897695a22247ebe781499558a87b779175082a"
+    },
+    {
+      "path": "mods/fusion-1.1.1-forge-mc1.20.1.jar",
+      "hash": "d45b7aa1be6d65a6c8c1d0b8fb7da07f1ea56c2f"
+    },
+    {
+      "path": "mods/geckolib-forge-1.20.1-4.4.4.jar",
+      "hash": "29dccfe1f985d3efdcd56d24ce4fe0ccc28cee7f"
+    },
+    {
+      "path": "mods/GeophilicReforged-v1.2.0.jar",
+      "hash": "412650ce355803e91d54ad8c44cdcf8857c09e2a"
+    },
+    {
+      "path": "mods/hardcorerevival-forge-1.20.1-12.0.2.jar",
+      "hash": "849da65e918106291966eeb23f2cf592d464404d"
+    },
+    {
+      "path": "mods/hardernaturalhealing-1.20-46.1.14.jar",
+      "hash": "b4069ee2e5a4163af0d6d77b52fc608d50c354c1"
+    },
+    {
+      "path": "mods/HeldItemTooltips-v8.0.0-1.20.1-Forge.jar",
+      "hash": "a022976a33affa5a16e0d98b3f112a1276b407c9"
+    },
+    {
+      "path": "mods/hourglass-1.20-1.2.1.1.jar",
+      "hash": "d7e6bf68eab1471e27573372a2bcf07d3744987d"
+    },
+    {
+      "path": "mods/I18nUpdateMod-3.5.5-all.jar",
+      "hash": "ba8e5aa31d719b6fdac13c88bf388da579d4cab6"
+    },
+    {
+      "path": "mods/iceboatnerf-1.1.1.jar",
+      "hash": "603c9b1a9f390153c1b3c68968fe2c1bfe883225"
+    },
+    {
+      "path": "mods/igleelib-1.20.1-1.2.5.jar",
+      "hash": "21d357e6e50c6bd567d839c19282a3d2c349d6da"
+    },
+    {
+      "path": "mods/IMBlocker_4.0.5+1.20.jar",
+      "hash": "3c0f0d4552b1efee8797afb600b830ddc7689d8f"
+    },
+    {
+      "path": "mods/ImmediatelyFast-Forge-1.2.14+1.20.4.jar",
+      "hash": "e67dc75212afa09a3e00f42abb417c3982cf67e2"
+    },
+    {
+      "path": "mods/ImmersiveEngineering-1.20.1-10.1.0-171.jar",
+      "hash": "2890867c3aa98dc5e6dc44c9c00b245afd84a679"
+    },
+    {
+      "path": "mods/immersive_aircraft-1.0.0+1.20.1-forge.jar",
+      "hash": "00860ae7515d5e653d45e5c3c91ef7f7dce2de77"
+    },
+    {
+      "path": "mods/immersive_armors-1.6.1+1.20.1-forge.jar",
+      "hash": "ce960c031636eb7b1ca0e830496806f380d0be9c"
+    },
+    {
+      "path": "mods/immersive_paintings-0.6.7+1.20.1-forge.jar",
+      "hash": "46910c10470c43cb1566384e9422fb76b341b84c"
+    },
+    {
+      "path": "mods/interiors-0.5.3+forge-mc1.20.1.jar",
+      "hash": "39dea99f6284ab0046f750aa56a26ceac6104567"
+    },
+    {
+      "path": "mods/irons_spellbooks-1.20.1-3.1.5.jar",
+      "hash": "b505dc64731aec94fb4c3c5b270fd801fe83ff64"
+    },
+    {
+      "path": "mods/irons_spells_js-1.20.1-2.1.1-release.jar",
+      "hash": "d5c6f74b7b4ba57965395898f417645237eb59bc"
+    },
+    {
+      "path": "mods/item-filters-forge-2001.1.0-build.59.jar",
+      "hash": "55a7f032c59489eca96069a7841601de2ff97590"
+    },
+    {
+      "path": "mods/Jade-1.20.1-forge-11.9.2.jar",
+      "hash": "c393847a8a8fc5ed6f594a12618e68900abe447c"
+    },
+    {
+      "path": "mods/JadeAddons-1.20.1-forge-5.2.2.jar",
+      "hash": "74b567a2b23bf34cd37ee4c02059318f8cc702d7"
+    },
+    {
+      "path": "mods/jearchaeology-1.20.1-1.0.4.jar",
+      "hash": "862676b9348a6103914e4dce3866cd22faa6a662"
+    },
+    {
+      "path": "mods/jecharacters-1.20.1-forge-4.5.9.jar",
+      "hash": "39e7660eb1942e52eedf45bb2b72d5d3187a7454"
+    },
+    {
+      "path": "mods/jeed-1.20-2.1.12.jar",
+      "hash": "38d95e3a45183e01dd527289ea765fbb69917646"
+    },
+    {
+      "path": "mods/jei-1.20.1-forge-15.3.0.4.jar",
+      "hash": "1a431d34991d51998f9971c4291bac2d58eaa154"
+    },
+    {
+      "path": "mods/JsonThings-1.20.1-0.9.1.jar",
+      "hash": "7fe43f8fa9eabfdeb09b7d4baec26c34eb021a73"
+    },
+    {
+      "path": "mods/JustEnoughResources-1.20.1-1.4.0.247.jar",
+      "hash": "2747c58f439c37a01139d35cab59ca1a54114009"
+    },
+    {
+      "path": "mods/Kiwi-1.20.1-Forge-11.8.5.jar",
+      "hash": "ba44ff5f017ce2088e3be79191f7ef7c3b089310"
+    },
+    {
+      "path": "mods/kleeslabs-forge-1.20-15.0.0.jar",
+      "hash": "d2971582787e0cad73158c809b56cf622daf7344"
+    },
+    {
+      "path": "mods/konkrete_forge_1.8.0_MC_1.20-1.20.1.jar",
+      "hash": "2019d821bed9071daabed43979433a5473ceee49"
+    },
+    {
+      "path": "mods/kubejs-create-forge-2001.2.5-build.2.jar",
+      "hash": "b5548110822245de13c7adf1d10e00ecab9cd633"
+    },
+    {
+      "path": "mods/kubejs-forge-2001.6.5-build.7.jar",
+      "hash": "a41d08fbf8148a198c438e74d426c6f79bb901f1"
+    },
+    {
+      "path": "mods/kubejsdelight-1.1.1.jar",
+      "hash": "cd82423c91696a4b75f5e1d70d10a746fa74890c"
+    },
+    {
+      "path": "mods/kubejs_botania-1.4.0-forge.jar",
+      "hash": "0f1f202f213b781f504f05ea22936f62a5c4b59d"
+    },
+    {
+      "path": "mods/lanserverproperties-1.11.1-forge.jar",
+      "hash": "6ae8c8a97e51b6f2b9e72cd5812bdf4880588363"
+    },
+    {
+      "path": "mods/LeaveMyBarsAlone-v8.0.0-1.20.1-Forge.jar",
+      "hash": "d4b545c4ed05152acb920396de9600938cd01962"
+    },
+    {
+      "path": "mods/letmedespawn-forge-1.20.x-1.2.0.jar",
+      "hash": "5168aca016a9384a889f74f4b0082cd8b0f50abb"
+    },
+    {
+      "path": "mods/LongerChatHistory-1.3-Forge.jar",
+      "hash": "717d1e68336519f97b7676322c98c9afe72651a0"
+    },
+    {
+      "path": "mods/lootjs-forge-1.20.1-2.11.0.jar",
+      "hash": "723364d1394f92179ee28b91d66419d94588b7bf"
+    },
+    {
+      "path": "mods/lucent-1.20.1-1.5.5.jar",
+      "hash": "d72dc411c4e35869044840e4b551e8734788bc51"
+    },
+    {
+      "path": "mods/man_of_many_planes-0.1.0+1.20.1-forge.jar",
+      "hash": "c3f28b2e50dc4f93c7725d97ea16a802dc4405dc"
+    },
+    {
+      "path": "mods/MaxHealthFix-Forge-1.20.1-12.0.2.jar",
+      "hash": "5e1c776901b2828b49560008330f57d5a70348ca"
+    },
+    {
+      "path": "mods/MEED-1.20.1-4.3.jar",
+      "hash": "8ac695134903b6bf72e5b61bf19e9f016ec708bb"
+    },
+    {
+      "path": "mods/melody_forge_1.0.3_MC_1.20.1-1.20.4.jar",
+      "hash": "e0942d396a70c09038e6c2e5e1da6505178249b8"
+    },
+    {
+      "path": "mods/memoryleakfix-forge-1.17+-1.1.5.jar",
+      "hash": "9f60142dd94631800386a16a4ad70ad9e84cd78a"
+    },
+    {
+      "path": "mods/modelfix-1.15.jar",
+      "hash": "5bdda0781bf9dfb5f992a7aa2bee64d5d3fe0b84"
+    },
+    {
+      "path": "mods/modernfix-forge-5.17.0+mc1.20.1.jar",
+      "hash": "9a6230d6f39353047771a458618b583d68d35d61"
+    },
+    {
+      "path": "mods/moonlight-1.20-2.11.20-forge.jar",
+      "hash": "01e7def1357d44c39662932a1de40cc7f6f4784a"
+    },
+    {
+      "path": "mods/moremobvariants-forge+1.20.1-1.3.0.1.jar",
+      "hash": "0fad563c9d66e421b0b0d4541b33d18516446c58"
+    },
+    {
+      "path": "mods/musicmanager-1.20.1-1.3.15.jar",
+      "hash": "5c91886c82ecce0255333bb47b3ce6c0dfc473c9"
+    },
+    {
+      "path": "mods/NaturesCompass-1.20.1-1.11.2-forge.jar",
+      "hash": "31ae930cdbb34e8e05e1954cfb2fee3a3813e850"
+    },
+    {
+      "path": "mods/NekosEnchantedBooks-1.20.1-1.8.0.jar",
+      "hash": "9888aef9f23d466ad957d54e1d047d7947b8530d"
+    },
+    {
+      "path": "mods/nerb-1.20.1-0.3-FORGE.jar",
+      "hash": "eff45ae52235847c7fd2e65c381cdfc866d1da41"
+    },
+    {
+      "path": "mods/nethersdelight-1.20.1-4.0.jar",
+      "hash": "c6da9c681bf2ec1d7b3e96db739c2b1113f6b838"
+    },
+    {
+      "path": "mods/NoChatReports-FORGE-1.20.1-v2.2.2.jar",
+      "hash": "069396e689ae887d065c8d61b7945e685fbcc65b"
+    },
+    {
+      "path": "mods/NonConflictKeys-Forge-1.19.X-1.20-1.0.0.jar",
+      "hash": "c6fcb7aedbc36bc51776fa71a8bac1161a5103e0"
+    },
+    {
+      "path": "mods/notenoughanimations-forge-1.7.3-mc1.20.1.jar",
+      "hash": "e51e63167f18672a8d34cdec9c1efe75914d18cb"
+    },
+    {
+      "path": "mods/oculus-flywheel-compat-1.20.1-0.2.5.jar",
+      "hash": "c87704b10925302f8103a0323f868f93de436484"
+    },
+    {
+      "path": "mods/oculus-mc1.20.1-1.7.0.jar",
+      "hash": "27410903d3af950378776106b76503cfebe7ea3a"
+    },
+    {
+      "path": "mods/open-parties-and-claims-forge-1.20.1-0.22.2.jar",
+      "hash": "7e163e3e5cfc2ad7e60778c3e58d2961d95f9413"
+    },
+    {
+      "path": "mods/otyacraftengine-forge-mc1.20-3.7.0-alpha.2.jar",
+      "hash": "4c129437845f8d808ee56663fb7413dfed2f8daf"
+    },
+    {
+      "path": "mods/OverflowingBars-v8.0.0-1.20.1-Forge.jar",
+      "hash": "e6445bdd4fafa9c41bd70ed271cf87b8ab692eda"
+    },
+    {
+      "path": "mods/PassiveSearchBar+Forge+1.20.2-1.0.0.jar",
+      "hash": "c0186c564d1302362862c732085a8ef84de84357"
+    },
+    {
+      "path": "mods/Patchouli-1.20.1-84-FORGE.jar",
+      "hash": "b6b7267f3669c10c167d5d375d0274d40e3eb756"
+    },
+    {
+      "path": "mods/Paxi-1.20-Forge-4.0.jar",
+      "hash": "a3a7008e07a27b3c831af7e4c82fbbc10a4da328"
+    },
+    {
+      "path": "mods/PickUpNotifier-v8.0.0-1.20.1-Forge.jar",
+      "hash": "378cc9730d1f11cd4c50add96263baccacdb4942"
+    },
+    {
+      "path": "mods/player-animation-lib-forge-1.0.2-rc1+1.20.jar",
+      "hash": "16808f94a41d45d8e986b4e4ea6b02ba57fa058a"
+    },
+    {
+      "path": "mods/polymorph-forge-0.49.3+1.20.1.jar",
+      "hash": "8819c19fb9065baf5092be601ab1042f15de4cc1"
+    },
+    {
+      "path": "mods/pop-1.20.1-1.0.0.jar",
+      "hash": "aceade93c4e3792700b59ac512682cfcd26a1140"
+    },
+    {
+      "path": "mods/probejs-6.0.1-forge.jar",
+      "hash": "5380211b1c2891f454a136545721526b184d8513"
+    },
+    {
+      "path": "mods/PuzzlesLib-v8.1.19-1.20.1-Forge.jar",
+      "hash": "1a268d01a3d5a262bef91bf03da2354521f0e4a8"
+    },
+    {
+      "path": "mods/questsadditions-1.4.3a.jar",
+      "hash": "679794c952afbb3e865f6cfb6a44985fa268b4c0"
+    },
+    {
+      "path": "mods/rechiseled-1.1.6-forge-mc1.20.jar",
+      "hash": "cacec8ace7987d33e76873bf574704aea7564a4e"
+    },
+    {
+      "path": "mods/rechiseledcreate-1.0.2-forge-mc1.20.jar",
+      "hash": "ce33c06e2d087470c3ddaf12ae0f676da7872699"
+    },
+    {
+      "path": "mods/recipeessentials-1.20.1-3.4.jar",
+      "hash": "6af26a860b3a9347c145c51392709d46adbcf48f"
+    },
+    {
+      "path": "mods/respawnobelisks-2.5-c.jar",
+      "hash": "6a8a2c53bec7839722bf868f54998acb65d73d84"
+    },
+    {
+      "path": "mods/rhino-forge-2001.2.2-build.18.jar",
+      "hash": "0a631b4e8235a777d08bd53d4f49dba388205cad"
+    },
+    {
+      "path": "mods/rubidium-extra-0.5.4.3+mc1.20.1-build.121.jar",
+      "hash": "af8b057d1b6a1844da59fa3680c4f847ea6a2aba"
+    },
+    {
+      "path": "mods/salt-1.20.1-1.2.4.jar",
+      "hash": "8b9f0d7f68467c1e1e2b385d91f752c6a76549b6"
+    },
+    {
+      "path": "mods/screenshot-to-clipboard-1.0.9-forge.jar",
+      "hash": "52c91669e2be8f73b3d1493b3692311008b4d5a9"
+    },
+    {
+      "path": "mods/seamless-2.2.2-forge-1.20.1.jar",
+      "hash": "c1bb259d2bd3260643bd7fe1dcbea1c4703beda6"
+    },
+    {
+      "path": "mods/Searchables-forge-1.20.1-1.0.3.jar",
+      "hash": "ed5a23ec30c90fd06b3f1d8140614028e1fafaee"
+    },
+    {
+      "path": "mods/servercore-forge-1.5.1+1.20.1.jar",
+      "hash": "6e06ebf6d144a44f14e8dcbd933b399561b40c87"
+    },
+    {
+      "path": "mods/showcaseitem-1.20.1-1.2.jar",
+      "hash": "282e08fc46b7e4bab61a8651b5fcc1ee1befddd9"
+    },
+    {
+      "path": "mods/simplemetals-tin3.0.jar",
+      "hash": "346640f129b2062e59a9df5387b2677d5f6ff59a"
+    },
+    {
+      "path": "mods/skinlayers3d-forge-1.6.4-mc1.20.1.jar",
+      "hash": "6b3994abd20b342448d5f966fd51df2ea8acffd4"
+    },
+    {
+      "path": "mods/SmidgeonOBliss-1.20.1-1.3.1.jar",
+      "hash": "9b69e2086199c4991645cb29e726c4322f375fe3"
+    },
+    {
+      "path": "mods/smoothboot(reloaded)-mc1.20.1-0.0.4.jar",
+      "hash": "3fd79132dba444bd109b5de4ad75dee06a48e130"
+    },
+    {
+      "path": "mods/SnowRealMagic-1.20.1-forge-10.4.3.jar",
+      "hash": "5d2a72906c35a503f7c9d185867b01556721b7ae"
+    },
+    {
+      "path": "mods/snowundertrees-1.20.1-1.4.4.jar",
+      "hash": "06bbd6b227184ee8f359d57ebe86dcc4d0fac50e"
+    },
+    {
+      "path": "mods/snowyspirit-1.20-3.0.6.jar",
+      "hash": "b4e24eff105049ee55e1a6950e5a54e760c3c981"
+    },
+    {
+      "path": "mods/solapplepie-1.20.1-2.3.0.jar",
+      "hash": "db306008033065fc4ca97f66d38183206a55d458"
+    },
+    {
+      "path": "mods/sophisticatedbackpacks-1.20.1-3.20.5.1044.jar",
+      "hash": "82e97629d2383d87d65f6684c6270c438f95156b"
+    },
+    {
+      "path": "mods/sophisticatedcore-1.20.1-0.6.22.611.jar",
+      "hash": "f2f9639f50d04fa4f6ae7a2e972428f40a8f80d4"
+    },
+    {
+      "path": "mods/sound-physics-remastered-forge-1.20.1-1.3.1.jar",
+      "hash": "5805ae332ce632b3564280ada9f69d5eeca359ca"
+    },
+    {
+      "path": "mods/spark-1.10.53-forge.jar",
+      "hash": "231fb325368c0660954f47bfb03493f5246fa4d1"
+    },
+    {
+      "path": "mods/spyglass_improvements-1.5+mc1.20+forge.jar",
+      "hash": "16166f37208282f35d1b16e780f282fc06c9872c"
+    },
+    {
+      "path": "mods/starterstructure-1.20.1-3.6.jar",
+      "hash": "0b7c2171cfc43571c507c2fe9073645ceb2c79cb"
+    },
+    {
+      "path": "mods/Steam_Rails-1.6.4+forge-mc1.20.1.jar",
+      "hash": "1fa6261d8bcde2feb200886e2ff6cfcbbdb53e17"
+    },
+    {
+      "path": "mods/storagedrawers-1.20.1-12.0.3.jar",
+      "hash": "ea5d343239fddf815ad44bee5a2d0dc2503f9cfb"
+    },
+    {
+      "path": "mods/Structory_1.20.2_v1.3.4.jar",
+      "hash": "741b533bb970d1f413f125b59545e73e04c36325"
+    },
+    {
+      "path": "mods/structureessentials-1.20.1-3.3.jar",
+      "hash": "07f84bfe00e7d1d54411dbbfdf04f77c8c137b08"
+    },
+    {
+      "path": "mods/structure_gel-1.20.1-2.16.2.jar",
+      "hash": "ec8c59d2a69eca3249a8da673f572b40b6d59895"
+    },
+    {
+      "path": "mods/StylishEffects-v8.0.2-1.20.1-Forge.jar",
+      "hash": "90f812020dcbbd854d4e3bab25237250f2e5f84e"
+    },
+    {
+      "path": "mods/supermartijn642configlib-1.1.8-forge-mc1.20.jar",
+      "hash": "f80f9eed728966adcfbcc848633e789645057281"
+    },
+    {
+      "path": "mods/supermartijn642corelib-1.1.17-forge-mc1.20.1.jar",
+      "hash": "f2c3d1aa0bef8663700b9438f789c15cfd72137d"
+    },
+    {
+      "path": "mods/supplementaries-1.20-2.8.11.jar",
+      "hash": "c1a9df899898ff660a5c9ffaada00205f687b0e6"
+    },
+    {
+      "path": "mods/suppsquared-1.20-1.1.14.jar",
+      "hash": "1b02c35166233a7d59200456603b1fc3880497aa"
+    },
+    {
+      "path": "mods/TaxFreeLevels-1.3.10-forge-1.20.2.jar",
+      "hash": "074c92822e0f6d16369f4b5f9851dcac273a14db"
+    },
+    {
+      "path": "mods/TerraBlender-forge-1.20.1-3.0.1.6.jar",
+      "hash": "41e217c0c58db15b56352596deff7057c265abec"
+    },
+    {
+      "path": "mods/Terralith_1.20_v2.5.0.jar",
+      "hash": "764fdbf6f57caa9ec68b8df3c6d2743acf927b9e"
+    },
+    {
+      "path": "mods/tfmg-0.8.0b-1.20.1.jar",
+      "hash": "5a9f706e27f2ca4a0f71710f22c4307bcf36d5d6"
+    },
+    {
+      "path": "mods/TheOuterEnd-1.0.9.jar",
+      "hash": "c922e6be6db4c8ed8b5839e28cb36ca7138c7a59"
+    },
+    {
+      "path": "mods/The_Undergarden-1.20.1-0.8.14.jar",
+      "hash": "d823f6da5ea81ee09df8038dc5645986b184a451"
+    },
+    {
+      "path": "mods/tia-1.20-1.1-forge.jar",
+      "hash": "bd1eac323a351355d21ddf720fb0503020c77928"
+    },
+    {
+      "path": "mods/tide-1.0.4.jar",
+      "hash": "72237a774ad4279c032318363ef6c594cd924d5e"
+    },
+    {
+      "path": "mods/toofast-1.20-0.4.3.5.jar",
+      "hash": "a6163b39827b483fb2976c916d99fce6cbf247a9"
+    },
+    {
+      "path": "mods/trashcans-1.0.18b-forge-mc1.20.jar",
+      "hash": "4bc991b861a981921d06b731368239ce6ea571d3"
+    },
+    {
+      "path": "mods/TreeChop-1.20.1-forge-0.19.0.jar",
+      "hash": "15908d3a913d8f9f5a7e1ae6a781a1caf15830bc"
+    },
+    {
+      "path": "mods/trulytreasures-1.20-3.0.0-forge.jar",
+      "hash": "2aa739995843e9719c368b470ed9aff962e968c8"
+    },
+    {
+      "path": "mods/undergarden_delight_1.0.0_forge_1.20.1.jar",
+      "hash": "877533fbe23f2b17756d36933b20801656e8af9b"
+    },
+    {
+      "path": "mods/UntranslatedItems-forge-1.20.1-1.7.jar",
+      "hash": "51a3029a535775cc294748aeac8a04e50cbed39d"
+    },
+    {
+      "path": "mods/VariantCraftingTables-1.20.1-2.0.2.jar",
+      "hash": "fee69870cf8fbcceb88f859058eb2b261beede67"
+    },
+    {
+      "path": "mods/visuality-forge-2.0.2.jar",
+      "hash": "1f0547f3ba508156cd4630bf793df464230e04f3"
+    },
+    {
+      "path": "mods/VisualWorkbench-v8.0.0-1.20.1-Forge.jar",
+      "hash": "7ebf579edcf2440eadf1ed6c8c895e1bc2d77bf1"
+    },
+    {
+      "path": "mods/waveycapes-forge-1.4.6-mc1.20.1.jar",
+      "hash": "99e50967acc6d3527f6a6a66465ae2d1d5c496c2"
+    },
+    {
+      "path": "mods/woodenbucket-1.20.1-2.1.0.0.jar",
+      "hash": "2aa93db30d5912c4e3d1d2f1c1c61294740ca6b2"
+    },
+    {
+      "path": "mods/XaerosWorldMap_1.38.4_Forge_1.20.jar",
+      "hash": "2be80281c4e38be6af28022c0bf0f8a62254067f"
+    },
+    {
+      "path": "mods/Xaeros_Minimap_24.1.1_Forge_1.20.jar",
+      "hash": "3d1d458f93545d342415ba417d36a2262973d10e"
+    },
+    {
+      "path": "mods/YeetusExperimentus-Forge-2.3.1-build.6+mc1.20.1.jar",
+      "hash": "6efdaf5d213f779e51aa84631a5f06a306351e75"
+    },
+    {
+      "path": "mods/YungsApi-1.20-Forge-4.0.5.jar",
+      "hash": "c3a989fdf8429828bd784e35e83f89c0786b43de"
+    },
+    {
+      "path": "mods/YungsBetterEndIsland-1.20-Forge-2.0.6.jar",
+      "hash": "4e7bf109981593061b8100bc8bf23e1c9bbcbb76"
+    },
+    {
+      "path": "mods/YungsBetterMineshafts-1.20-Forge-4.0.4.jar",
+      "hash": "e2cbc574807a994bb9610184eb4bbfe29a6c0774"
+    },
+    {
+      "path": "mods/YungsBetterNetherFortresses-1.20-Forge-2.0.6.jar",
+      "hash": "889cd16a93764d1d6af2e2dda5bbc286a2683e7a"
+    },
+    {
+      "path": "mods/YungsBetterOceanMonuments-1.20-Forge-3.0.4.jar",
+      "hash": "d8e74ed19903752a97ed0e1d2b1a8bf378bc252f"
+    },
+    {
+      "path": "mods/YungsBetterStrongholds-1.20-Forge-4.0.3.jar",
+      "hash": "3730238c56edca4bb5b2238e1314aec572ced385"
+    },
+    {
+      "path": "mods/YungsBetterWitchHuts-1.20-Forge-3.0.3.jar",
+      "hash": "71fee574f920c6b05004f100ba07e9b8d5844169"
+    },
+    {
+      "path": "mods/YungsMenuTweaks-1.20.1-Forge-1.0.2.jar",
+      "hash": "b43a0bc054d3974076d36b5cfec6aeab968d24a6"
+    },
+    {
+      "path": "README.md",
+      "hash": "6c870bb455edad2a758dae9f90e6b8a34964dc2a"
+    }
+  ],
+  "addons": [
+    {
+      "id": "game",
+      "version": "1.20.1"
+    },
+    {
+      "id": "forge",
+      "version": "47.2.32"
+    }
+  ]
+}

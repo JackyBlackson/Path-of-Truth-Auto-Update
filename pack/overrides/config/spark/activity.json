@@ -1,0 +1,28 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "MysteriousEnder",
+      "uniqueId": "9cb927bf-1773-4d3d-b416-507a5f240adf"
+    },
+    "time": 1713371030529,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/UfqlwtOVDQ"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "MysteriousEnder",
+      "uniqueId": "9cb927bf-1773-4d3d-b416-507a5f240adf"
+    },
+    "time": 1713371025028,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/9R5bumTaFs"
+    }
+  }
+]
