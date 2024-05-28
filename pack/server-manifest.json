@@ -3,7 +3,7 @@
   "author": "MysteriousEnder",
   "version": "1.0",
   "description": "",
-  "fileApi": "https://jackyblackson.github.io/Path-of-Truth-Auto-Update/pack/",
+  "fileApi": "https://jackyblackson.github.io/Path-of-Truth-Auto-Update/pack",
   "files": [
     {
       "path": "config/AdvancedBackups-client.properties",
